@@ -1,0 +1,373 @@
+---------------------------------------------------------------
+
+[2020-05-15T15:02:55+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.188658s] [吞吐率：5.30req/s] [内存消耗：1,133.93kb] [文件加载：191]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Order/checkout',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:03:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.010884s] [吞吐率：91.88req/s] [内存消耗：522.37kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:04:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.009057s] [吞吐率：110.41req/s] [内存消耗：521.24kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:04:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.005757s] [吞吐率：173.70req/s] [内存消耗：521.24kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:04:15+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.129290s] [吞吐率：7.73req/s] [内存消耗：1,065.38kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:04:39+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.134817s] [吞吐率：7.42req/s] [内存消耗：1,065.38kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:10:58+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.146697s] [吞吐率：6.82req/s] [内存消耗：1,065.38kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:11:42+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.095435s] [吞吐率：10.48req/s] [内存消耗：1,065.38kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:11:43+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.007320s] [吞吐率：136.61req/s] [内存消耗：521.24kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:11:58+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.090666s] [吞吐率：11.03req/s] [内存消耗：1,065.38kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:14:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.022737s] [吞吐率：43.98req/s] [内存消耗：521.24kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:15:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.149919s] [吞吐率：6.67req/s] [内存消耗：1,065.38kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:15:16+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.007957s] [吞吐率：125.68req/s] [内存消耗：521.24kb] [文件加载：190]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=juart9a1b4ti04rgno8qn6hibu',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":63,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holy","tel":"13419566683","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","email":"244500972@qq.com","password":"$2y$10$mOey6y.tA.qNXq7M9up9i.sz24eslvplGpiakGtPWzQszOWdndq0.","remember_token":null,"headimgurl":"https:\/\/images.itfun.tv\/user\/avatar\/52\/5893cf.jpg","created_at":"2017-06-25 20:19:33","updated_at":"2019-12-02 11:15:47","address_id":2}
+[ info ] [ DB ] INIT mysql
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/db/Connection.php:528]
+---------------------------------------------------------------
+
+[2020-05-15T15:20:16+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.191463s] [吞吐率：5.22req/s] [内存消耗：1,022.49kb] [文件加载：188]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null

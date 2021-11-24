@@ -1,0 +1,96 @@
+---------------------------------------------------------------
+
+[2020-06-03T06:41:58+08:00] 47.101.196.6 GET mishop.holyzq.com/
+[运行时间：0.004174s] [吞吐率：239.58req/s] [内存消耗：861.62kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-03T18:39:47+08:00] 210.52.224.209 GET mishop.holyzq.com/
+[运行时间：0.004243s] [吞吐率：235.69req/s] [内存消耗：862.04kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'referer' => 'http://mishop.holyzq.com/',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Wappalyzer)',
+  'accept' => 'text/html,*/*',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-03T18:39:49+08:00] 210.52.224.209 GET mishop.holyzq.com/
+[运行时间：0.003245s] [吞吐率：308.16req/s] [内存消耗：865.44kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://mishop.holyzq.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-charset' => 'GBK,utf-8;q=0.7,*;q=0.3',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'user-agent' => 'Chrome/54.0 (Windows NT 10.0)',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-03T19:45:39+08:00] 47.101.159.176 GET mishop.holyzq.com/
+[运行时间：0.004204s] [吞吐率：237.87req/s] [内存消耗：861.56kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 chrome(linux/Linux)Chrome',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-03T19:52:15+08:00] 47.100.181.241 GET mishop.holyzq.com/
+[运行时间：0.004270s] [吞吐率：234.19req/s] [内存消耗：861.56kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 chrome(linux/Linux)Chrome',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null

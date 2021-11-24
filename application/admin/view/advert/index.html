@@ -1,0 +1,121 @@
+{extend name="Layout/app" /}
+
+{block name="content"}
+<div class="admin-content">
+    <div class="admin-content-body">
+        <div class="page-header">
+            <ol class="am-breadcrumb am-breadcrumb-slash">
+                <li><a href="/admin">首页</a></li>
+                <li>广告列表</li>
+            </ol>
+        </div>
+
+        <div class="page-body">
+
+            <div class="am-g">
+                <form action="" class="am-form am-form-horizontal">
+
+                    <div class="am-u-sm-6 am-u-md-6" style="margin-left: 1000px;">
+                        <div class="am-form-group">
+                            <div class="am-u-sm-6 am-u-md-6 am-u-end">
+                                <select data-am-selected="{btnWidth: '100%', btnSize: 'sm', maxHeight: 360}"
+                                        id="change_category"
+                                        name="category_id">
+                                    <option value="-1">所有分类</option>
+
+                                    {volist name='categories' id='category'}
+                                    <option value="{$category.id}" {if $category->id == Request::param('category_id')} selected {/if}>{$category.name}</option>
+                                    {/volist}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="am-g">
+                <div class="am-u-sm-12">
+                    <div class="am-btn-toolbar">
+                        <div class="">
+                            <button type="button" onclick="location='/admin/Advert/create'"
+                                    class="am-btn am-btn-primary">
+                                <span class="am-icon-plus"></span>
+                                新增
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="am-g am-g-collapse">
+                <div class="am-u-sm-12">
+                    <form class="am-form">
+                        <table class="am-table am-table-hover table-main">
+                            <thead>
+                            <tr>
+                                <th class="table-id">ID</th>
+                                <th class="table-title">缩略图</th>
+                                <th class="table-type">标题</th>
+                                <th class="table-author am-hide-sm-only">所属分类</th>
+                                <th class="table-date am-hide-sm-only">排序</th>
+                                <th class="table-date am-hide-sm-only">创建日期</th>
+                                <th class="table-set">操作</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+
+                            {volist name='adverts' id='advert'}
+                            <tr>
+                                <td>{$advert->id}</td>
+                                <td>
+                                    <img src="{$advert->photo->image}" alt="" class="thumb">
+                                </td>
+                                <td>{$advert->title}</td>
+                                <td class="am-hide-sm-only">{$advert->category->name}</td>
+                                <td class="am-hide-sm-only">
+                                    <span class="am-badge am-badge-secondary">{$advert->sort}</span>
+                                </td>
+                                <td class="am-hide-sm-only">{$advert->create_time}</td>
+                                <td>
+                                    <a href="/admin/Advert/edit/id/{$advert->id}">编辑</a>
+                                    <div class="divider divider-vertical"></div>
+                                    <a href="/admin/Advert/destroy/id/{$advert->id}"
+                                       onclick="if(confirm('确实要删除数据吗？')) return true;else return false;">删除</a>
+                                </td>
+                            </tr>
+                            {/volist}
+                            </tbody>
+                        </table>
+                        <div class="am-cf">
+                            共 {$adverts->total()} 条记录
+                            <div class="am-fr">
+                                {$adverts|raw}
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="admin-content-footer">
+        <p>Copyright © 2013-2018 长乐未央技术研发部出品</p>
+    </footer>
+
+</div>
+{/block}
+{block name="js"}
+<script>
+    $(function () {
+        $("#change_category").change(function () {
+            var category_id = $(this).val();
+            if (category_id == "-1") {
+                location.href = "/admin/Advert/index";
+                return false;
+            }
+            var url = "/admin/Advert/index?category_id=" + category_id;
+            location.href = url;
+        })
+    })
+</script>
+{/block}

@@ -1,0 +1,4248 @@
+---------------------------------------------------------------
+
+[2020-04-21T10:41:49+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[ error ] [0]模板文件不存在:User.login
+---------------------------------------------------------------
+
+[2020-04-21T10:42:06+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003271s] [吞吐率：305.71req/s] [内存消耗：181.02kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]模板文件不存在:User.login[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/view/driver/Think.php:86]
+---------------------------------------------------------------
+
+[2020-04-21T10:42:20+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004851s] [吞吐率：206.15req/s] [内存消耗：213.59kb] [文件加载：62]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:42:27+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004821s] [吞吐率：207.42req/s] [内存消耗：212.91kb] [文件加载：62]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:42:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005095s] [吞吐率：196.27req/s] [内存消耗：212.62kb] [文件加载：62]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:42:55+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005563s] [吞吐率：179.76req/s] [内存消耗：212.62kb] [文件加载：62]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:43:13+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.002370s] [吞吐率：421.96req/s] [内存消耗：193.02kb] [文件加载：60]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:44:26+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.010770s] [吞吐率：92.85req/s] [内存消耗：294.67kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:44:26+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html
+[运行时间：0.014808s] [吞吐率：67.53req/s] [内存消耗：181.92kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:44:27+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.4025823303169629
+[运行时间：0.004474s] [吞吐率：223.51req/s] [内存消耗：180.77kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:44:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.5141764002578739
+[运行时间：0.003284s] [吞吐率：304.51req/s] [内存消耗：180.77kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:44:29+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.7104550978667907
+[运行时间：0.003682s] [吞吐率：271.60req/s] [内存消耗：180.77kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:44:30+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.4920201654101797
+[运行时间：0.003124s] [吞吐率：320.10req/s] [内存消耗：180.77kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:46:58+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005246s] [吞吐率：190.62req/s] [内存消耗：214.02kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:46:58+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html
+[运行时间：0.006104s] [吞吐率：163.83req/s] [内存消耗：180.48kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:47:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.5768251770473742
+[运行时间：0.004458s] [吞吐率：224.32req/s] [内存消耗：180.45kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:47:01+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.34211787246499026
+[运行时间：0.006007s] [吞吐率：166.47req/s] [内存消耗：180.46kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:50:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify
+[运行时间：0.007596s] [吞吐率：131.65req/s] [内存消耗：203.10kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:50:54+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005617s] [吞吐率：178.03req/s] [内存消耗：233.13kb] [文件加载：70]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:50:55+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006468s] [吞吐率：154.61req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:50:56+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003442s] [吞吐率：290.52req/s] [内存消耗：213.62kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:50:56+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.007163s] [吞吐率：139.61req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:50:57+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.8825681481286083
+[运行时间：0.003630s] [吞吐率：275.49req/s] [内存消耗：180.45kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:10+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.006420s] [吞吐率：155.77req/s] [内存消耗：233.21kb] [文件加载：70]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:51:10+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.005009s] [吞吐率：199.64req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:11+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html&0.06916399559314379
+[运行时间：0.004898s] [吞吐率：204.17req/s] [内存消耗：198.90kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:21+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.006163s] [吞吐率：162.26req/s] [内存消耗：233.21kb] [文件加载：70]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:51:21+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/verify.html
+[运行时间：0.005264s] [吞吐率：189.97req/s] [内存消耗：162.09kb] [文件加载：57]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T10:51:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005179s] [吞吐率：193.08req/s] [内存消耗：213.62kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:51:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/verify.html
+[运行时间：0.004023s] [吞吐率：248.57req/s] [内存消耗：162.09kb] [文件加载：57]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T10:51:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003723s] [吞吐率：268.61req/s] [内存消耗：213.62kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:51:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/verify.html
+[运行时间：0.004184s] [吞吐率：239.01req/s] [内存消耗：162.09kb] [文件加载：57]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T10:51:37+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.008074s] [吞吐率：123.85req/s] [内存消耗：233.21kb] [文件加载：70]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:51:37+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006817s] [吞吐率：146.69req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:38+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html&0.4485724141090002
+[运行时间：0.004303s] [吞吐率：232.40req/s] [内存消耗：197.77kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:40+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html&0.7566332833757392
+[运行时间：0.005694s] [吞吐率：175.63req/s] [内存消耗：197.77kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:48+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.007581s] [吞吐率：131.91req/s] [内存消耗：233.21kb] [文件加载：70]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:51:48+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.008782s] [吞吐率：113.87req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:49+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.06545431301607807
+[运行时间：0.006178s] [吞吐率：161.87req/s] [内存消耗：180.46kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:50+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.350577420450106
+[运行时间：0.003917s] [吞吐率：255.28req/s] [内存消耗：180.45kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:50+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.002997194290657035
+[运行时间：0.004274s] [吞吐率：233.97req/s] [内存消耗：180.46kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:51:51+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.49509193365049575
+[运行时间：0.005344s] [吞吐率：187.13req/s] [内存消耗：180.46kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:52:48+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004773s] [吞吐率：209.52req/s] [内存消耗：213.91kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:52:48+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004299s] [吞吐率：232.62req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:52:49+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.9226499088121956
+[运行时间：0.004601s] [吞吐率：217.34req/s] [内存消耗：180.45kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:52:50+08:00] 127.0.0.1 GET 127.0.0.1:8000/captcha.html&0.37952088118143634
+[运行时间：0.003946s] [吞吐率：253.43req/s] [内存消耗：180.46kb] [文件加载：55]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'captcha/<id?>',
+  'route' => '\\think\\captcha\\CaptchaController@index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:53:21+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.006854s] [吞吐率：145.90req/s] [内存消耗：233.21kb] [文件加载：70]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:53:21+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006301s] [吞吐率：158.71req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:53:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html&0.09706129432885713
+[运行时间：0.004850s] [吞吐率：206.19req/s] [内存消耗：197.77kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:53:38+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004199s] [吞吐率：238.15req/s] [内存消耗：213.62kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:53:38+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.008047s] [吞吐率：124.27req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:53:39+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html&0.48343859579609916
+[运行时间：0.003761s] [吞吐率：265.88req/s] [内存消耗：197.77kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:53:44+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.006461s] [吞吐率：154.78req/s] [内存消耗：233.21kb] [文件加载：70]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:53:44+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006201s] [吞吐率：161.26req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:53:45+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/verify.html&0.7890605872772463
+[运行时间：0.004678s] [吞吐率：213.77req/s] [内存消耗：160.03kb] [文件加载：56]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T10:54:14+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004299s] [吞吐率：232.62req/s] [内存消耗：213.62kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:54:14+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006573s] [吞吐率：152.14req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.007104s] [吞吐率：140.76req/s] [内存消耗：213.91kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.011372s] [吞吐率：87.93req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:01+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/verify.html&0.6569596009903249
+[运行时间：0.003572s] [吞吐率：279.94req/s] [内存消耗：160.03kb] [文件加载：56]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T10:55:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003332s] [吞吐率：300.13req/s] [内存消耗：213.20kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.008004s] [吞吐率：124.93req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003599s] [吞吐率：277.86req/s] [内存消耗：213.20kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.005906s] [吞吐率：169.32req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005871s] [吞吐率：170.33req/s] [内存消耗：213.20kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.005305s] [吞吐率：188.50req/s] [内存消耗：204.98kb] [文件加载：64]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:25+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.002624s] [吞吐率：381.09req/s] [内存消耗：211.45kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:25+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.003662s] [吞吐率：273.07req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:27+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/verify.html&0.20773325664388165
+[运行时间：0.001998s] [吞吐率：500.51req/s] [内存消耗：157.73kb] [文件加载：53]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T10:55:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003963s] [吞吐率：252.33req/s] [内存消耗：210.84kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004987s] [吞吐率：200.52req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.001704s] [吞吐率：586.86req/s] [内存消耗：210.84kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.003377s] [吞吐率：296.12req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:29+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.002170s] [吞吐率：460.81req/s] [内存消耗：210.84kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:29+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004638s] [吞吐率：215.60req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:55:29+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.002567s] [吞吐率：389.59req/s] [内存消耗：210.84kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:55:29+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.003039s] [吞吐率：329.07req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:57:06+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.006715s] [吞吐率：148.92req/s] [内存消耗：230.86kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:57:07+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004879s] [吞吐率：204.96req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:58:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005810s] [吞吐率：172.12req/s] [内存消耗：230.86kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:58:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.003372s] [吞吐率：296.54req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.30392328283118375
+[运行时间：0.005170s] [吞吐率：193.42req/s] [内存消耗：205.67kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_30392328283118375' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:01+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.42617300456673335
+[运行时间：0.002571s] [吞吐率：388.94req/s] [内存消耗：205.67kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_42617300456673335' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:01+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.8548667403172032
+[运行时间：0.004061s] [吞吐率：246.25req/s] [内存消耗：205.67kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_8548667403172032' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:30+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.007418s] [吞吐率：134.81req/s] [内存消耗：230.86kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T10:59:30+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.005362s] [吞吐率：186.50req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:31+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.3528834313267062
+[运行时间：0.002621s] [吞吐率：381.51req/s] [内存消耗：205.67kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_3528834313267062' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:32+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.10663659310183249
+[运行时间：0.003935s] [吞吐率：254.12req/s] [内存消耗：205.67kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_10663659310183249' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:32+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.12497393735329321
+[运行时间：0.004876s] [吞吐率：205.09req/s] [内存消耗：205.67kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_12497393735329321' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T10:59:33+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.0839001023136623
+[运行时间：0.003527s] [吞吐率：283.53req/s] [内存消耗：205.67kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_0839001023136623' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:00:40+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.005279s] [吞吐率：189.43req/s] [内存消耗：231.16kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:00:40+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006179s] [吞吐率：161.84req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:00:49+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/__SELF__
+[运行时间：0.003227s] [吞吐率：309.89req/s] [内存消耗：194.63kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '123123',
+  'captcha' => '1222',
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:01:11+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004712s] [吞吐率：212.22req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:01:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004666s] [吞吐率：214.31req/s] [内存消耗：230.86kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:01:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004547s] [吞吐率：219.92req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:01:17+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.005628s] [吞吐率：177.69req/s] [内存消耗：189.68kb] [文件加载：62]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '35',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '1111',
+  'captcha' => '111',
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:02:32+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.007530s] [吞吐率：132.80req/s] [内存消耗：206.09kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:02:33+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.002191s] [吞吐率：456.45req/s] [内存消耗：211.27kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:02:33+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.005222s] [吞吐率：191.49req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:02:40+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.007533s] [吞吐率：132.75req/s] [内存消耗：188.41kb] [文件加载：61]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'huangdj',
+  'password' => '111',
+  'captcha' => '111',
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:07:52+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.007822s] [吞吐率：127.84req/s] [内存消耗：206.09kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:07:52+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003375s] [吞吐率：296.29req/s] [内存消耗：210.84kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:07:53+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.007079s] [吞吐率：141.26req/s] [内存消耗：205.29kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:07:58+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.004196s] [吞吐率：238.33req/s] [内存消耗：201.77kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '37',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'huangdj',
+  'password' => '111',
+  'captcha' => '111',
+)
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\User::error()[/Users/holy/Developer/ThinkPHP/mishop/application/admin/controller/User.php:17]
+---------------------------------------------------------------
+
+[2020-04-21T11:08:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.010059s] [吞吐率：99.41req/s] [内存消耗：215.20kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:08:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.001854s] [吞吐率：539.39req/s] [内存消耗：214.23kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:08:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.007717s] [吞吐率：129.58req/s] [内存消耗：214.18kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:08:32+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.004418s] [吞吐率：226.35req/s] [内存消耗：221.09kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '35',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'huangdj',
+  'password' => '11',
+  'captcha' => '11',
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:08:41+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004793s] [吞吐率：208.64req/s] [内存消耗：215.15kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:08:42+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.003316s] [吞吐率：301.55req/s] [内存消耗：214.63kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:08:42+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004342s] [吞吐率：230.32req/s] [内存消耗：214.18kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:08:46+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.006228s] [吞吐率：160.57req/s] [内存消耗：230.39kb] [文件加载：71]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '35',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'huangdj',
+  'password' => '11',
+  'captcha' => '11',
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:08:49+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.003952s] [吞吐率：253.03req/s] [内存消耗：214.18kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:08:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html?0.8347970172563768
+[运行时间：0.004007s] [吞吐率：249.57req/s] [内存消耗：214.56kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  '0_8347970172563768' => '',
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:09:03+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.051738s] [吞吐率：19.33req/s] [内存消耗：564.34kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'huangdj',
+  'password' => '111',
+  'captcha' => '3371',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010883s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.002336s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `name` = 'huangdj'  AND `password` = '111' LIMIT 1 [ RunTime:0.002332s ]
+---------------------------------------------------------------
+
+[2020-04-21T11:11:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004106s] [吞吐率：243.54req/s] [内存消耗：215.34kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:11:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.012037s] [吞吐率：83.08req/s] [内存消耗：214.02kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:11:45+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.004564s] [吞吐率：219.10req/s] [内存消耗：436.30kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '123123',
+  'captcha' => '9738',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000809s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000617s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `name` = 'holy'  AND `password` = '123123' LIMIT 1 [ RunTime:0.000315s ]
+---------------------------------------------------------------
+
+[2020-04-21T11:11:49+08:00] 127.0.0.1 GET 127.0.0.1:8000/Index/index
+[运行时间：0.002042s] [吞吐率：489.70req/s] [内存消耗：200.30kb] [文件加载：61]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:12:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.004266s] [吞吐率：234.41req/s] [内存消耗：215.34kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:12:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.010833s] [吞吐率：92.31req/s] [内存消耗：315.55kb] [文件加载：72]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:12:08+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.004451s] [吞吐率：224.67req/s] [内存消耗：437.91kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '123123',
+  'captcha' => '6265',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000606s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `name` = 'holy'  AND `password` = '123123' LIMIT 1 [ RunTime:0.000473s ]
+---------------------------------------------------------------
+
+[2020-04-21T11:12:11+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.004664s] [吞吐率：214.40req/s] [内存消耗：219.61kb] [文件加载：63]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:13:31+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.009335s] [吞吐率：107.12req/s] [内存消耗：317.48kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:13:40+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.002687s] [吞吐率：372.17req/s] [内存消耗：318.95kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:13:47+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.002990s] [吞吐率：334.45req/s] [内存消耗：214.23kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:13:47+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.011151s] [吞吐率：89.68req/s] [内存消耗：315.55kb] [文件加载：72]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:19:41+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/login
+[运行时间：0.023456s] [吞吐率：42.63req/s] [内存消耗：215.34kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:19:41+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.005844s] [吞吐率：171.11req/s] [内存消耗：315.80kb] [文件加载：72]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:19:48+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.006275s] [吞吐率：159.36req/s] [内存消耗：437.95kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '123123',
+  'captcha' => '9148',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000582s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `name` = 'holy'  AND `password` = '123123' LIMIT 1 [ RunTime:0.000340s ]
+---------------------------------------------------------------
+
+[2020-04-21T11:19:51+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.006420s] [吞吐率：155.76req/s] [内存消耗：287.02kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:19:56+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/logout.html
+[运行时间：0.005060s] [吞吐率：197.63req/s] [内存消耗：159.79kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T11:20:19+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.004429s] [吞吐率：225.78req/s] [内存消耗：227.76kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:20:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/logout.html
+[运行时间：0.001874s] [吞吐率：533.63req/s] [内存消耗：159.79kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T11:21:21+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005422s] [吞吐率：184.43req/s] [内存消耗：287.35kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:21:25+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/logout.html
+[运行时间：0.005596s] [吞吐率：178.70req/s] [内存消耗：309.58kb] [文件加载：74]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:21:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/User/login
+[运行时间：0.001988s] [吞吐率：503.03req/s] [内存消耗：156.97kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-21T11:21:38+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.003179s] [吞吐率：314.56req/s] [内存消耗：227.76kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:21:40+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/logout.html
+[运行时间：0.003005s] [吞吐率：332.80req/s] [内存消耗：219.25kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:21:43+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/login
+[运行时间：0.003208s] [吞吐率：311.73req/s] [内存消耗：214.20kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:21:43+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004620s] [吞吐率：216.45req/s] [内存消耗：214.02kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/User/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:21:57+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.002158s] [吞吐率：463.36req/s] [内存消耗：227.34kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.003808s] [吞吐率：262.60req/s] [内存消耗：227.34kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.002974s] [吞吐率：336.24req/s] [内存消耗：227.34kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.003589s] [吞吐率：278.62req/s] [内存消耗：227.34kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.002722s] [吞吐率：367.41req/s] [内存消耗：227.34kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.003100s] [吞吐率：322.59req/s] [内存消耗：227.34kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:20+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005073s] [吞吐率：197.12req/s] [内存消耗：218.37kb] [文件加载：68]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:23+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/login
+[运行时间：0.002539s] [吞吐率：393.87req/s] [内存消耗：214.18kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:23+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006937s] [吞吐率：144.15req/s] [内存消耗：214.18kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/User/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:22:31+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.006362s] [吞吐率：157.18req/s] [内存消耗：436.34kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/User/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '123123',
+  'captcha' => '9298',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000882s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000889s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `name` = 'holy'  AND `password` = '123123' LIMIT 1 [ RunTime:0.000552s ]
+---------------------------------------------------------------
+
+[2020-04-21T11:22:34+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.002699s] [吞吐率：370.49req/s] [内存消耗：334.95kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:23:41+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.004753s] [吞吐率：210.39req/s] [内存消耗：395.61kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:23:46+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005768s] [吞吐率：173.37req/s] [内存消耗：396.11kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:24:02+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.007029s] [吞吐率：142.27req/s] [内存消耗：368.24kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+[ error ] [2]Use of undefined constant ucfirst - assumed 'ucfirst' (this will throw an Error in a future version of PHP)[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/495151c67a3190226f64a93faec24635.php:37]
+---------------------------------------------------------------
+
+[2020-04-21T11:24:07+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005792s] [吞吐率：172.65req/s] [内存消耗：367.70kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+[ error ] [2]ucfirst() expects exactly 1 parameter, 0 given[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/495151c67a3190226f64a93faec24635.php:37]
+---------------------------------------------------------------
+
+[2020-04-21T11:24:32+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.006858s] [吞吐率：145.81req/s] [内存消耗：367.82kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+[ error ] [2]Use of undefined constant ucfirst - assumed 'ucfirst' (this will throw an Error in a future version of PHP)[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/495151c67a3190226f64a93faec24635.php:37]
+---------------------------------------------------------------
+
+[2020-04-21T11:25:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005217s] [吞吐率：191.68req/s] [内存消耗：395.61kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:26:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.008472s] [吞吐率：118.04req/s] [内存消耗：367.79kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+[ error ] [2]Use of undefined constant upper - assumed 'upper' (this will throw an Error in a future version of PHP)[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/495151c67a3190226f64a93faec24635.php:37]
+---------------------------------------------------------------
+
+[2020-04-21T11:26:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005431s] [吞吐率：184.12req/s] [内存消耗：396.11kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:26:41+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.004460s] [吞吐率：224.21req/s] [内存消耗：396.11kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:26:51+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/logout.html
+[运行时间：0.003244s] [吞吐率：308.25req/s] [内存消耗：308.47kb] [文件加载：74]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:26:53+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/login
+[运行时间：0.002358s] [吞吐率：424.10req/s] [内存消耗：214.77kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:26:53+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.006014s] [吞吐率：166.28req/s] [内存消耗：214.02kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/User/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:28:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/login
+[运行时间：0.008671s] [吞吐率：115.33req/s] [内存消耗：216.05kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:28:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.008866s] [吞吐率：112.79req/s] [内存消耗：214.18kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/User/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:29:19+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/User/login
+[运行时间：0.002800s] [吞吐率：357.14req/s] [内存消耗：219.96kb] [文件加载：67]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/User/logout.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-21T11:29:19+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/user/verify.html
+[运行时间：0.004633s] [吞吐率：215.85req/s] [内存消耗：218.98kb] [文件加载：65]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-dest' => 'image',
+  'referer' => 'http://127.0.0.1:8000/admin/User/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-21T11:29:28+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/user/login.html
+[运行时间：0.005193s] [吞吐率：192.57req/s] [内存消耗：437.46kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/User/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '123123',
+  'captcha' => '9756',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000615s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `name` = 'holy'  AND `password` = '4b13955235' LIMIT 1 [ RunTime:0.000300s ]
+---------------------------------------------------------------
+
+[2020-04-21T11:29:31+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.002981s] [吞吐率：335.46req/s] [内存消耗：336.19kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/user/login.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]

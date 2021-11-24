@@ -1,0 +1,777 @@
+---------------------------------------------------------------
+
+[2020-07-23T00:00:25+08:00] 47.92.204.164 GET /
+[运行时间：0.004714s] [吞吐率：212.13req/s] [内存消耗：859.20kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:00:29+08:00] 47.92.204.164 GET /
+[运行时间：0.004226s] [吞吐率：236.62req/s] [内存消耗：859.20kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:00:29+08:00] 47.92.204.164 GET 101.132.45.200/nmaplowercheck1595433629
+[运行时间：0.002344s] [吞吐率：426.60req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:00:29+08:00] 47.92.204.164 POST 101.132.45.200/sdk
+[运行时间：0.002057s] [吞吐率：486.18req/s] [内存消耗：522.52kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:00:29+08:00] 47.92.204.164 GET 101.132.45.200/
+[运行时间：0.003148s] [吞吐率：317.65req/s] [内存消耗：859.82kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:00:29+08:00] 47.92.204.164 GET 101.132.45.200/HNAP1
+[运行时间：0.002186s] [吞吐率：457.44req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:00:29+08:00] 47.92.204.164 GET 101.132.45.200/evox/about
+[运行时间：0.002447s] [吞吐率：408.64req/s] [内存消耗：522.78kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:00:49+08:00] 47.92.204.164 GET 101.132.45.200/
+[运行时间：0.003758s] [吞吐率：266.10req/s] [内存消耗：860.88kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'deflate, gzip',
+  'accept' => '*/*',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:15:41+08:00] 8.208.13.185 GET /
+[运行时间：0.004215s] [吞吐率：237.26req/s] [内存消耗：859.20kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:15:48+08:00] 8.208.13.185 POST 101.132.45.200/sdk
+[运行时间：0.002864s] [吞吐率：349.18req/s] [内存消耗：522.52kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:15:48+08:00] 8.208.13.185 GET /
+[运行时间：0.003908s] [吞吐率：255.88req/s] [内存消耗：859.20kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:15:48+08:00] 8.208.13.185 GET 101.132.45.200/nmaplowercheck1595434547
+[运行时间：0.002433s] [吞吐率：411.00req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:15:49+08:00] 8.208.13.185 GET 101.132.45.200/
+[运行时间：0.003303s] [吞吐率：302.77req/s] [内存消耗：859.82kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:15:49+08:00] 8.208.13.185 GET 101.132.45.200/HNAP1
+[运行时间：0.002324s] [吞吐率：430.27req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:15:50+08:00] 8.208.13.185 GET 101.132.45.200/evox/about
+[运行时间：0.002246s] [吞吐率：445.21req/s] [内存消耗：522.78kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T00:16:10+08:00] 8.208.13.185 GET 101.132.45.200/
+[运行时间：0.004161s] [吞吐率：240.33req/s] [内存消耗：860.88kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'deflate, gzip',
+  'accept' => '*/*',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T00:21:24+08:00] 209.17.97.122 GET mishop.holyzq.com/
+[运行时间：0.004400s] [吞吐率：227.27req/s] [内存消耗：860.55kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T01:31:41+08:00] 172.104.76.123 GET 101.132.45.200:443/
+[运行时间：0.005638s] [吞吐率：177.37req/s] [内存消耗：861.29kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)',
+  'host' => '101.132.45.200:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T03:24:11+08:00] 183.136.225.56 GET 101.132.45.200/
+[运行时间：0.004648s] [吞吐率：215.15req/s] [内存消耗：861.61kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T04:39:19+08:00] 47.101.40.158 GET 101.132.45.200/
+[运行时间：0.004450s] [吞吐率：224.71req/s] [内存消耗：861.56kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => '101.132.45.200',
+  'user-agent' => 'Mozilla/5.0 (Linux/Android/android/iphone;)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T05:58:22+08:00] 101.251.238.50 GET 101.132.45.200:443/
+[运行时间：0.004395s] [吞吐率：227.53req/s] [内存消耗：862.98kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'application/json, text/plain, */*',
+  'accept-charset' => 'GBK,utf-8;q=0.7,*;q=0.3',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0',
+  'host' => '101.132.45.200:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T08:24:12+08:00] 102.133.229.69 GET 101.132.45.200/
+[运行时间：0.004448s] [吞吐率：224.82req/s] [内存消耗：862.49kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1',
+  'accept-language' => 'en-US;q=0.6,en;q=0.4',
+  'accept-encoding' => 'deflate, gzip, identity',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T08:24:15+08:00] 102.133.229.69 GET open.weixin.qq.com/connect/oauth2/authorize?appid=wxe846b6db8a21a631&redirect_uri=https%3A%2F%2F101.132.45.200%2F&response_type=code&scope=snsapi_userinfo&state=b8e05db3b31006f5cb251f1224fbd6d5&connect_redirect=1
+[运行时间：0.003773s] [吞吐率：265.03req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T08:24:25+08:00] 102.133.229.69 GET open.weixin.qq.com/HNAP1/
+[运行时间：0.002979s] [吞吐率：335.68req/s] [内存消耗：522.78kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-07-23T08:35:09+08:00] 192.35.168.194 GET 101.132.45.200:443/
+[运行时间：0.004525s] [吞吐率：221.00req/s] [内存消耗：859.90kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '101.132.45.200:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T08:35:10+08:00] 192.35.168.194 GET 101.132.45.200/
+[运行时间：0.003576s] [吞吐率：279.64req/s] [内存消耗：861.39kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T12:18:32+08:00] 184.105.247.196 GET 101.132.45.200/
+[运行时间：0.004390s] [吞吐率：227.79req/s] [内存消耗：859.82kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T13:26:12+08:00] 193.118.53.194 GET 101.132.45.200/
+[运行时间：0.006395s] [吞吐率：156.38req/s] [内存消耗：861.73kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T15:02:32+08:00] 171.117.11.198 GET 101.132.45.200/
+[运行时间：0.004268s] [吞吐率：234.29req/s] [内存消耗：860.48kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T16:40:23+08:00] 193.118.53.210 GET 101.132.45.200/
+[运行时间：0.004379s] [吞吐率：228.36req/s] [内存消耗：861.73kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T18:08:40+08:00] 3.120.229.80 GET 101.132.45.200/
+[运行时间：0.004653s] [吞吐率：214.92req/s] [内存消耗：861.80kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.3 Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/43.4',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T18:34:27+08:00] 183.136.225.56 GET 101.132.45.200/
+[运行时间：0.004464s] [吞吐率：224.01req/s] [内存消耗：861.61kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T19:31:01+08:00] 172.104.76.123 GET 101.132.45.200:443/
+[运行时间：0.004525s] [吞吐率：220.99req/s] [内存消耗：861.29kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'user-agent' => 'Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https://zhanzhang.toutiao.com/)',
+  'host' => '101.132.45.200:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T19:46:52+08:00] 128.14.209.242 GET 101.132.45.200/
+[运行时间：0.004581s] [吞吐率：218.29req/s] [内存消耗：861.73kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T23:03:49+08:00] 120.85.119.20 GET mishop.holyzq.com/index/Category/index
+[运行时间：0.008060s] [吞吐率：124.07req/s] [内存消耗：961.21kb] [文件加载：139]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'connection' => 'keep-alive',
+  'accept-language' => 'zh-cn',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/category/index.html [ array (
+  0 => '_category',
+  1 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000501s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.000697s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000404s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000381s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000420s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000241s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:03:52+08:00] 120.85.119.20 GET mishop.holyzq.com/
+[运行时间：0.004539s] [吞吐率：220.31req/s] [内存消耗：864.49kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/Category/index',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-07-23T23:03:56+08:00] 120.85.119.20 GET mishop.holyzq.com/?code=071Vpd7f11jTRw0nw07f1du77f1Vpd79&state=5cf51cdc28bafc01783a20fc70132ac3
+[运行时间：0.263960s] [吞吐率：3.79req/s] [内存消耗：1,289.57kb] [文件加载：233]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '071Vpd7f11jTRw0nw07f1du77f1Vpd79',
+  'state' => '5cf51cdc28bafc01783a20fc70132ac3',
+)
+[ info ] null
+[ info ] [ DB ] INIT mysql
+[ info ] /
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000485s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `customer` [ RunTime:0.000704s ]
+[ sql ] [ SQL ] SELECT * FROM `customer` WHERE  `openid` = 'ozw1Nw7hVcNxdZLTPO4sqH2Hufyo' LIMIT 1 [ RunTime:0.000358s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:03:56+08:00] 120.85.119.20 GET mishop.holyzq.com/
+[运行时间：0.009816s] [吞吐率：101.88req/s] [内存消耗：1,199.40kb] [文件加载：193]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":2,"openid":"ozw1Nw7hVcNxdZLTPO4sqH2Hufyo","sex":1,"nickname":"\u6e05\u8fdc\u660e\u4eae","city":"Whitehorse","province":"Yukon","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/1Nu9LYj4CuRLqvzprvjITb9PvFqOnhnfoWbZWwewHxS7Y0JnuaUVWeTicZT4CvYVIjqHE3rRcn1TwPqfs1S6iakA\/132","created_at":"2020-05-07 13:16:56","updated_at":null,"address_id":5}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/index/index.html [ array (
+  0 => '_index',
+  1 => 'adverts',
+  2 => 'banners',
+  3 => 'products',
+  4 => 'total',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000433s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.000612s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000361s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000425s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000310s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000300s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000218s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000605s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` LIMIT 2 [ RunTime:0.000346s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36) [ RunTime:0.000222s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000223s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:04:00+08:00] 120.85.119.20 POST mishop.holyzq.com/index/Index/get_products
+[运行时间：0.007326s] [吞吐率：136.50req/s] [内存消耗：1,145.07kb] [文件加载：191]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'content-length' => '6',
+  'referer' => 'https://mishop.holyzq.com/',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'origin' => 'https://mishop.holyzq.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-cn',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => '*/*',
+  'host' => 'mishop.holyzq.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] {"id":2,"openid":"ozw1Nw7hVcNxdZLTPO4sqH2Hufyo","sex":1,"nickname":"\u6e05\u8fdc\u660e\u4eae","city":"Whitehorse","province":"Yukon","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/1Nu9LYj4CuRLqvzprvjITb9PvFqOnhnfoWbZWwewHxS7Y0JnuaUVWeTicZT4CvYVIjqHE3rRcn1TwPqfs1S6iakA\/132","created_at":"2020-05-07 13:16:56","updated_at":null,"address_id":5}
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000443s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000742s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` LIMIT 2,2 [ RunTime:0.000446s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000467s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (53,56) [ RunTime:0.000218s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:04:03+08:00] 120.85.119.20 POST mishop.holyzq.com/index/Index/get_products
+[运行时间：0.006827s] [吞吐率：146.48req/s] [内存消耗：1,143.56kb] [文件加载：191]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'content-length' => '6',
+  'referer' => 'https://mishop.holyzq.com/',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'origin' => 'https://mishop.holyzq.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-cn',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => '*/*',
+  'host' => 'mishop.holyzq.com',
+)
+[ info ] [ PARAM ] array (
+  'page' => '4',
+)
+[ info ] {"id":2,"openid":"ozw1Nw7hVcNxdZLTPO4sqH2Hufyo","sex":1,"nickname":"\u6e05\u8fdc\u660e\u4eae","city":"Whitehorse","province":"Yukon","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/1Nu9LYj4CuRLqvzprvjITb9PvFqOnhnfoWbZWwewHxS7Y0JnuaUVWeTicZT4CvYVIjqHE3rRcn1TwPqfs1S6iakA\/132","created_at":"2020-05-07 13:16:56","updated_at":null,"address_id":5}
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000396s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000853s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` LIMIT 4,2 [ RunTime:0.000420s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000403s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 58 [ RunTime:0.000195s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:04:07+08:00] 120.85.119.20 GET mishop.holyzq.com/index/Cart/index
+[运行时间：0.012916s] [吞吐率：77.42req/s] [内存消耗：1,141.45kb] [文件加载：192]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":2,"openid":"ozw1Nw7hVcNxdZLTPO4sqH2Hufyo","sex":1,"nickname":"\u6e05\u8fdc\u660e\u4eae","city":"Whitehorse","province":"Yukon","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/1Nu9LYj4CuRLqvzprvjITb9PvFqOnhnfoWbZWwewHxS7Y0JnuaUVWeTicZT4CvYVIjqHE3rRcn1TwPqfs1S6iakA\/132","created_at":"2020-05-07 13:16:56","updated_at":null,"address_id":5}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000403s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.004230s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 2 [ RunTime:0.000269s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:04:14+08:00] 120.85.119.20 GET mishop.holyzq.com/index/Customer/index
+[运行时间：0.004104s] [吞吐率：243.66req/s] [内存消耗：803.92kb] [文件加载：179]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":2,"openid":"ozw1Nw7hVcNxdZLTPO4sqH2Hufyo","sex":1,"nickname":"\u6e05\u8fdc\u660e\u4eae","city":"Whitehorse","province":"Yukon","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/1Nu9LYj4CuRLqvzprvjITb9PvFqOnhnfoWbZWwewHxS7Y0JnuaUVWeTicZT4CvYVIjqHE3rRcn1TwPqfs1S6iakA\/132","created_at":"2020-05-07 13:16:56","updated_at":null,"address_id":5}
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/customer/index.html [ array (
+  0 => '_customer',
+  1 => 'customer',
+) ]
+---------------------------------------------------------------
+
+[2020-07-23T23:04:16+08:00] 120.85.119.20 GET mishop.holyzq.com/index/Category/index
+[运行时间：0.006470s] [吞吐率：154.56req/s] [内存消耗：961.84kb] [文件加载：139]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/category/index.html [ array (
+  0 => '_category',
+  1 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000403s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000282s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000478s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000260s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:04:17+08:00] 120.85.119.20 GET mishop.holyzq.com/
+[运行时间：0.009547s] [吞吐率：104.74req/s] [内存消耗：1,199.70kb] [文件加载：193]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/Category/index',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.14(0x17000e28) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=mdr7jhndsh530d2b1th9ntigo0',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":2,"openid":"ozw1Nw7hVcNxdZLTPO4sqH2Hufyo","sex":1,"nickname":"\u6e05\u8fdc\u660e\u4eae","city":"Whitehorse","province":"Yukon","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/1Nu9LYj4CuRLqvzprvjITb9PvFqOnhnfoWbZWwewHxS7Y0JnuaUVWeTicZT4CvYVIjqHE3rRcn1TwPqfs1S6iakA\/132","created_at":"2020-05-07 13:16:56","updated_at":null,"address_id":5}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/index/index.html [ array (
+  0 => '_index',
+  1 => 'adverts',
+  2 => 'banners',
+  3 => 'products',
+  4 => 'total',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000416s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.000681s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000374s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000252s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000256s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000277s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000478s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` LIMIT 2 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36) [ RunTime:0.000199s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000201s ]
+---------------------------------------------------------------
+
+[2020-07-23T23:25:01+08:00] 128.14.134.170 GET 101.132.45.200/
+[运行时间：0.004660s] [吞吐率：214.59req/s] [内存消耗：861.73kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null

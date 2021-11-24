@@ -1,0 +1,14 @@
+[2020-04-27T09:33:21+08:00][ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+info
+[2020-04-27T13:26:30+08:00][ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+info
+[2020-04-27T13:28:33+08:00][ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+info
+[2020-04-27T05:36:48+00:00][ error ] [2]require(/Users/holy/Developer/ThinkPHP/mishop/vendor/composer/../../application/helpers/qiniu.php): failed to open stream: No such file or directory[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/Loader.php:416]
+error
+[2020-04-27T13:37:01+08:00][ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+info
+[2020-04-27T15:12:31+08:00][ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+info
+[2020-04-27T15:51:12+08:00][ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+info

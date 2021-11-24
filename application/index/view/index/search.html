@@ -1,0 +1,44 @@
+{extend name="Layout/app" /}
+
+{block name="content"}
+<div id="wrapper">
+    <div class="page-search" data-log="搜索页">
+        <div class="header">
+            <div class="left">
+                <a href="/" title="小米商城" data-log="HEAD-首页" class="home">
+                    <span class="icon-home icon"></span>
+                </a>
+            </div>
+            <div class="tit">
+                <div class="searchword"><input autofocus="autofocus"></div>
+            </div>
+            <div class="searchlabel">
+                <a>
+                    <span class="icon icon-search"></span>
+                </a>
+            </div>
+        </div>
+        <div>
+            <ul class="list-default">
+
+                {volist name="products" id="product"}
+                <li {if $product->is_top == '1'} class="top" {/if} onclick="location.href='/index/Index/show/id/{$product->id}'">
+                    <span>{$product->name}</span>
+                </li>
+                {/volist}
+            </ul>
+        </div>
+    </div>
+</div>
+{/block}
+
+{block name="js"}
+<script>
+    $(function () {
+        $(".icon-search").click(function () {
+            var searchword = $.trim($(".searchword input").val());
+            location.href = '/index/Category/product?searchword=' + searchword;
+        });
+    })
+</script>
+{/block}

@@ -1,0 +1,27 @@
+{extend name="Layout/app" /}
+
+{block name="content"}
+<div id="wrapper">
+    <div class="page-list" data-log="商品列表">
+        <ol class="version">
+
+            {volist name="products" id="product"}
+            <li>
+                <a class="version-item" href="/index/Index/show/id/{$product->id}">
+                    <div class="version-item-img"><img
+                            src="{$product->photo->image}">
+                    </div>
+                    <div class="version-item-intro">
+                        <div class="version-item-name"><p>{$product->name}</p></div>
+                        <div class="version-item-intro-price"><span>{$product->price}元</span></div>
+                    </div>
+                </a>
+            </li>
+            {/volist}
+        </ol>
+
+        {include file="Layout/shared/_footer"}
+
+    </div>
+</div>
+{/block}

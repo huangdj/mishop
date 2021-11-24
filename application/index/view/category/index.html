@@ -1,0 +1,29 @@
+{extend name="Layout/app" /}
+
+{block name="content"}
+
+<div id="wrapper">
+    <div class="page-category" data-log="商品分类">
+
+        <div class="page-category-wrap">
+
+            {volist name="categories" id="category"}
+            <div class="list-wrap" id="m0">
+                <h3 class="list_title">{$category->name}</h3>
+                <ol class="list_category">
+
+                    {volist name="category->children" id="child"}
+                    <li onclick="location.href='/index/Category/product?category_id={$child->id}'">
+                        <div class="img"><img src="{$child->photo->image}"></div>
+                        <div class="name"><span>{$child->name}</span></div>
+                    </li>
+                    {/volist}
+                </ol>
+            </div>
+            {/volist}
+        </div>
+
+        {include file="Layout/shared/_footer" /}
+    </div>
+</div>
+{/block}

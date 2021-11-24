@@ -1,0 +1,18 @@
+---------------------------------------------------------------
+
+[2020-06-28T01:05:22+08:00] 101.132.156.13 GET mishop.holyzq.com/
+[运行时间：0.004385s] [吞吐率：228.05req/s] [内存消耗：861.62kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 chrome(windows nt/Windows NT;)Chrome',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null

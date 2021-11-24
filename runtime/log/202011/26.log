@@ -1,0 +1,525 @@
+---------------------------------------------------------------
+
+[2020-11-26T00:47:39+08:00] 113.31.115.156 GET www.techbimu.com/
+[运行时间：0.004347s] [吞吐率：230.05req/s] [内存消耗：862.23kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.27 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/601.1.27',
+  'host' => 'www.techbimu.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T00:47:41+08:00] 113.31.115.156 GET www.techbimu.com/
+[运行时间：0.004375s] [吞吐率：228.57req/s] [内存消耗：862.05kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Dalvik/2.1.0 (Linux; U; Android 6.0; ZTE BA520 Build/MRA58K)',
+  'host' => 'www.techbimu.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T01:56:23+08:00] 3.238.97.226 GET 101.132.45.200/.env
+[运行时间：0.003644s] [吞吐率：274.42req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T02:25:56+08:00] 3.238.97.226 GET 101.132.45.200/.env
+[运行时间：0.003834s] [吞吐率：260.82req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T03:03:27+08:00] 192.241.237.51 GET 101.132.45.200/
+[运行时间：0.004568s] [吞吐率：218.92req/s] [内存消耗：861.39kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T03:27:17+08:00] 192.241.234.70 GET 101.132.45.200/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f
+[运行时间：0.004068s] [吞吐率：245.83req/s] [内存消耗：522.79kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T03:30:55+08:00] 120.78.231.236 GET /
+[运行时间：0.004638s] [吞吐率：215.61req/s] [内存消耗：859.20kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T04:11:11+08:00] 139.196.97.68 GET mishop.holyzq.com/
+[运行时间：0.004526s] [吞吐率：220.95req/s] [内存消耗：861.63kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T05:44:45+08:00] 183.56.165.205 GET 101.132.45.200/cgi-bin/login.cgi?requestname=2&cmd=0
+[运行时间：0.003434s] [吞吐率：291.19req/s] [内存消耗：522.79kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T05:44:45+08:00] 183.56.165.205 GET 101.132.45.200/por/login_psw.csp
+[运行时间：0.002687s] [吞吐率：372.17req/s] [内存消耗：522.79kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T06:24:41+08:00] 183.136.225.56 GET 101.132.45.200/
+[运行时间：0.004345s] [吞吐率：230.15req/s] [内存消耗：861.80kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Baiduspider+(+http://www.baidu.com/search/spider.htm);googlebot|baiduspider|baidu|spider|sogou|bingbot|bot|yahoo|soso|sosospider|360spider|youdaobot|jikeSpider;)',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T07:18:34+08:00] 183.136.225.42 GET 101.132.45.200:443/
+[运行时间：0.004341s] [吞吐率：230.37req/s] [内存消耗：861.66kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '101.132.45.200:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T07:18:34+08:00] 183.136.225.42 GET 101.132.45.200:443/
+[运行时间：0.003314s] [吞吐率：301.75req/s] [内存消耗：862.29kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE',
+  'host' => '101.132.45.200:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T09:06:48+08:00] 139.224.239.175 GET www.techbimu.com/
+[运行时间：0.004951s] [吞吐率：201.98req/s] [内存消耗：861.63kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.techbimu.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T09:33:35+08:00] 45.83.66.80 GET 101.132.45.200/
+[运行时间：0.004750s] [吞吐率：210.54req/s] [内存消耗：864.84kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'accept-language' => 'en;q=0.7,en-US;q=0.3',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T09:42:36+08:00] 167.248.133.53 GET 101.132.45.200:443/
+[运行时间：0.005236s] [吞吐率：190.98req/s] [内存消耗：859.90kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '101.132.45.200:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T09:42:37+08:00] 167.248.133.53 GET 101.132.45.200/
+[运行时间：0.003389s] [吞吐率：295.06req/s] [内存消耗：861.61kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T10:06:16+08:00] 47.101.192.180 GET 101.132.45.200/
+[运行时间：0.005310s] [吞吐率：188.32req/s] [内存消耗：861.63kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => '101.132.45.200',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T10:32:57+08:00] 51.210.111.36 GET 101.132.45.200/.env
+[运行时间：0.003760s] [吞吐率：265.97req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T10:32:58+08:00] 51.210.111.36 POST 101.132.45.200/
+[运行时间：0.003958s] [吞吐率：252.65req/s] [内存消耗：862.08kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'application/x-www-form-urlencoded',
+  'content-length' => '20',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36',
+  'host' => '101.132.45.200',
+)
+[ info ] [ PARAM ] array (
+  '0x' => 
+  array (
+    0 => 'androxgh0st',
+  ),
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T11:54:18+08:00] 47.97.66.35 GET 101.132.45.200/index.php/?s=/index/%5Cthink%5Capp/invokefunction&function=call_user_func&vars%5B0%5D=system&vars%5B1%5D=netstat%20-an
+[运行时间：0.003375s] [吞吐率：296.29req/s] [内存消耗：520.71kb] [文件加载：108]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T11:54:18+08:00] 47.97.66.35 GET 101.132.45.200/index.php/?s=/user/%5Cthink%5Capp/invokefunction&function=call_user_func&vars%5B0%5D=system&vars%5B1%5D=netstat%20-an
+[运行时间：0.002469s] [吞吐率：405.01req/s] [内存消耗：520.71kb] [文件加载：108]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T11:54:18+08:00] 47.97.66.35 GET 101.132.45.200/index.php/?s=/admin/%5Cthink%5Capp/invokefunction&function=call_user_func&vars%5B0%5D=system&vars%5B1%5D=netstat%20-an
+[运行时间：0.002452s] [吞吐率：407.81req/s] [内存消耗：520.71kb] [文件加载：108]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T11:54:18+08:00] 47.97.66.35 GET 101.132.45.200/index.php/?s=/install/%5Cthink%5Capp/invokefunction&function=call_user_func&vars%5B0%5D=system&vars%5B1%5D=netstat%20-an
+[运行时间：0.002237s] [吞吐率：447.01req/s] [内存消耗：520.72kb] [文件加载：108]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T12:29:18+08:00] 116.62.107.61 POST 101.132.45.200/
+[运行时间：0.004469s] [吞吐率：223.77req/s] [内存消耗：863.41kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '59',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.6.2333.33 Safari/537.36 AliyunTaiShiGanZhi https://www.aliyun.com/product/sas',
+  'host' => '101.132.45.200',
+)
+[ info ] [ PARAM ] array (
+  's' => 'netstat -an',
+  'filter' => 
+  array (
+    0 => 'system',
+  ),
+  'method' => '',
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T12:29:18+08:00] 116.62.107.61 POST 101.132.45.200/index.php?s=captcha
+[运行时间：0.002505s] [吞吐率：399.19req/s] [内存消耗：522.08kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T12:29:18+08:00] 116.62.107.61 POST 101.132.45.200/
+[运行时间：0.003177s] [吞吐率：314.77req/s] [内存消耗：864.44kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '41',
+  'cookie' => 'PHPSESSID=0p9gcfcs2b5m6vcnkt6f2hc530',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.6.2333.33 Safari/537.36 AliyunTaiShiGanZhi https://www.aliyun.com/product/sas',
+  'host' => '101.132.45.200',
+)
+[ info ] [ PARAM ] array (
+  'c' => 'system',
+  'f' => 'netstat -an',
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T12:54:56+08:00] 47.101.188.113 GET mishop.holyzq.com/
+[运行时间：0.004328s] [吞吐率：231.05req/s] [内存消耗：861.63kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T12:58:55+08:00] 184.105.247.194 GET 101.132.45.200/
+[运行时间：0.004447s] [吞吐率：224.87req/s] [内存消耗：859.82kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T13:14:57+08:00] 120.78.225.124 GET /
+[运行时间：0.004429s] [吞吐率：225.79req/s] [内存消耗：859.20kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T15:57:23+08:00] 192.241.237.229 GET 101.132.45.200/actuator/health
+[运行时间：0.003228s] [吞吐率：309.77req/s] [内存消耗：522.78kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-11-26T22:11:53+08:00] 34.78.227.165 GET 101.132.45.200/
+[运行时间：0.004693s] [吞吐率：213.09req/s] [内存消耗：864.52kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'x-datadog-sampling-priority' => '0',
+  'x-datadog-parent-id' => '13024032132904962677',
+  'x-datadog-trace-id' => '13430698039230218726',
+  'connection' => 'keep-alive',
+  'user-agent' => 'python-requests/2.25.0',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T22:14:06+08:00] 107.6.168.242 GET 101.132.45.200/
+[运行时间：0.004451s] [吞吐率：224.67req/s] [内存消耗：861.67kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T22:14:12+08:00] 107.6.168.242 GET 101.132.45.200/
+[运行时间：0.004445s] [吞吐率：224.97req/s] [内存消耗：861.67kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T22:14:15+08:00] 107.6.168.242 GET 101.132.45.200/
+[运行时间：0.004583s] [吞吐率：218.19req/s] [内存消耗：861.67kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T22:14:18+08:00] 107.6.168.242 GET 101.132.45.200/
+[运行时间：0.003930s] [吞吐率：254.46req/s] [内存消耗：861.67kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-11-26T22:14:21+08:00] 107.6.168.242 GET 101.132.45.200/
+[运行时间：0.004857s] [吞吐率：205.89req/s] [内存消耗：861.67kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36',
+  'host' => '101.132.45.200',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null

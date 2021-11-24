@@ -1,0 +1,211 @@
+---------------------------------------------------------------
+
+[2020-05-27T18:07:38+08:00] 27.18.53.200 GET mishop.holyzq.com/admin/User/login
+[运行时间：0.003284s] [吞吐率：304.51req/s] [内存消耗：564.14kb] [文件加载：122]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-05-27T18:07:38+08:00] 27.18.53.200 GET mishop.holyzq.com/admin/user/verify.html
+[运行时间：0.003506s] [吞吐率：285.23req/s] [内存消耗：562.30kb] [文件加载：120]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/User/login',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'connection' => 'keep-alive',
+  'accept' => 'image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-05-27T18:07:42+08:00] 27.18.53.200 GET mishop.holyzq.com/auth/Qq/login.html
+[运行时间：0.003191s] [吞吐率：313.38req/s] [内存消耗：563.73kb] [文件加载：120]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/User/login',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'PHPSESSID=tv5it9mq82t0tlcuj9up3ipr9g; UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-05-27T18:07:55+08:00] 27.18.53.200 GET mishop.holyzq.com/auth/qq/callback?code=9CAB2649E35E2FB84A9E26F919961B1B&state=text
+[运行时间：0.420774s] [吞吐率：2.38req/s] [内存消耗：909.65kb] [文件加载：136]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'PHPSESSID=tv5it9mq82t0tlcuj9up3ipr9g; UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '9CAB2649E35E2FB84A9E26F919961B1B',
+  'state' => 'text',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001082s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `openid` = 'D912FFBA414E75D65D8487CB2D539F52' LIMIT 1 [ RunTime:0.000295s ]
+---------------------------------------------------------------
+
+[2020-05-27T18:07:56+08:00] 27.18.53.200 GET mishop.holyzq.com/admin/Index/index.html
+[运行时间：0.002996s] [吞吐率：333.78req/s] [内存消耗：685.91kb] [文件加载：131]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/auth/qq/callback?code=9CAB2649E35E2FB84A9E26F919961B1B&state=text',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'PHPSESSID=tv5it9mq82t0tlcuj9up3ipr9g; UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/index/index.html [ array (
+  0 => '_admin',
+) ]
+---------------------------------------------------------------
+
+[2020-05-27T18:08:04+08:00] 27.18.53.200 GET mishop.holyzq.com/admin/User/logout.html
+[运行时间：0.002853s] [吞吐率：350.49req/s] [内存消耗：565.46kb] [文件加载：123]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Index/index.html',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'PHPSESSID=tv5it9mq82t0tlcuj9up3ipr9g; UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-05-27T18:08:06+08:00] 27.18.53.200 GET mishop.holyzq.com/admin/User/login
+[运行时间：0.002631s] [吞吐率：380.09req/s] [内存消耗：564.43kb] [文件加载：122]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/User/logout.html',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'PHPSESSID=tv5it9mq82t0tlcuj9up3ipr9g; UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-05-27T18:08:06+08:00] 27.18.53.200 GET mishop.holyzq.com/admin/user/verify.html
+[运行时间：0.003374s] [吞吐率：296.40req/s] [内存消耗：674.78kb] [文件加载：127]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/User/login',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.124 Mobile/15E148 Safari/604.1',
+  'cookie' => 'PHPSESSID=tv5it9mq82t0tlcuj9up3ipr9g; UM_distinctid=1708ee79dec3e4-0e3567af1a53628-600e501d-4a640-1708ee79dee53f',
+  'connection' => 'keep-alive',
+  'accept' => 'image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-05-27T19:38:45+08:00] 47.101.60.187 GET mishop.holyzq.com/
+[运行时间：0.004186s] [吞吐率：238.90req/s] [内存消耗：861.63kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 (macintosh; mac os safari) Mac OS Safari',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null

@@ -1,0 +1,1512 @@
+---------------------------------------------------------------
+
+[2020-05-03T21:06:23+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.422508s] [吞吐率：2.37req/s] [内存消耗：1,005.16kb] [文件加载：105]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.080007s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.135655s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.023003s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001553s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.007749s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000508s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000349s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001494s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.005052s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.001708s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:15:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.062497s] [吞吐率：16.00req/s] [内存消耗：604.08kb] [文件加载：105]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013521s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.001484s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.001947s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001325s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.001292s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.001319s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.002233s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000441s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:15:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.028769s] [吞吐率：34.76req/s] [内存消耗：616.85kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000499s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000748s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000432s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000702s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (1,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000496s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000476s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,58) [ RunTime:0.000294s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:17:47+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.032965s] [吞吐率：30.34req/s] [内存消耗：657.95kb] [文件加载：111]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002962s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.001162s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.001031s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001235s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (1,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000558s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000479s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,58) [ RunTime:0.000276s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:22:51+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.024523s] [吞吐率：40.78req/s] [内存消耗：658.71kb] [文件加载：111]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002268s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.001459s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001446s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (1,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.002136s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000943s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,58) [ RunTime:0.000566s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Index/show/id/6
+[运行时间：0.055859s] [吞吐率：17.90req/s] [内存消耗：583.70kb] [文件加载：106]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/show.html [ array (
+  0 => 'product',
+  1 => 'recommends',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002138s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.004412s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 6 ) AND `product`.`delete_time` IS NULL LIMIT 1 [ RunTime:0.020652s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `gallery` [ RunTime:0.000870s ]
+[ sql ] [ SQL ] SELECT * FROM `gallery` WHERE  `product_id` = 6 [ RunTime:0.001111s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_recommend` = 1  AND `id` <> 6 ) AND `product`.`delete_time` IS NULL ORDER BY `is_top` DESC [ RunTime:0.004620s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.002188s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36,56,58) [ RunTime:0.000593s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:07+08:00] 127.0.0.1 POST 127.0.0.1:8000/index/Cart/store
+[运行时间：0.051138s] [吞吐率：19.55req/s] [内存消耗：436.45kb] [文件加载：99]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'product_id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001182s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.002513s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `product_id` = 6  AND `customer_id` = 63 LIMIT 1 [ RunTime:0.000348s ]
+[ sql ] [ SQL ] INSERT INTO `cart` (`product_id` , `customer_id`) VALUES (6 , 63) [ RunTime:0.013005s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:07+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.018447s] [吞吐率：54.21req/s] [内存消耗：624.31kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002516s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.004193s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.001728s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001129s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (1,8,6) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000671s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000804s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,53,58) [ RunTime:0.000439s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:12+08:00] 127.0.0.1 DELETE 127.0.0.1:8000/index/Cart/destroy
+[运行时间：0.056503s] [吞吐率：17.70req/s] [内存消耗：589.38kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '4',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '5',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002286s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.001218s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `id` = 5 [ RunTime:0.001343s ]
+[ sql ] [ SQL ] DELETE FROM `cart` WHERE  `id` = 5 [ RunTime:0.009832s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000423s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.021756s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (1,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000335s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:14+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.016185s] [吞吐率：61.79req/s] [内存消耗：615.23kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001419s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.001308s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000378s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (1,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000353s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000497s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,58) [ RunTime:0.000383s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:47+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.014107s] [吞吐率：70.89req/s] [内存消耗：658.76kb] [文件加载：111]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000695s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000795s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000258s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (1,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000395s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,58) [ RunTime:0.002285s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:51+08:00] 127.0.0.1 DELETE 127.0.0.1:8000/index/Cart/destroy
+[运行时间：0.025941s] [吞吐率：38.55req/s] [内存消耗：586.59kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '4',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001407s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.002637s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `id` = 2 [ RunTime:0.002291s ]
+[ sql ] [ SQL ] DELETE FROM `cart` WHERE  `id` = 2 [ RunTime:0.001319s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000415s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000671s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 1 ) AND `product`.`delete_time` IS NULL [ RunTime:0.001043s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:23:54+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.023933s] [吞吐率：41.78req/s] [内存消耗：608.20kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006426s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.005674s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001012s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 1 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000568s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000773s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 60 [ RunTime:0.000294s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:24:18+08:00] 127.0.0.1 DELETE 127.0.0.1:8000/index/Cart/destroy
+[运行时间：0.018468s] [吞吐率：54.15req/s] [内存消耗：577.80kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '4',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002539s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.001730s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `id` = 1 [ RunTime:0.000449s ]
+[ sql ] [ SQL ] DELETE FROM `cart` WHERE  `id` = 1 [ RunTime:0.001850s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000645s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:24:24+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.005812s] [吞吐率：172.06req/s] [内存消耗：578.87kb] [文件加载：108]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/6',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000523s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000514s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000487s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.019652s] [吞吐率：50.89req/s] [内存消耗：618.29kb] [文件加载：110]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002515s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.001606s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000345s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:14+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.019528s] [吞吐率：51.21req/s] [内存消耗：604.10kb] [文件加载：105]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001501s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.003834s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.001818s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001728s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000464s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000348s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000782s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000512s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000855s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:17+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Index/show/id/8
+[运行时间：0.026290s] [吞吐率：38.04req/s] [内存消耗：582.38kb] [文件加载：106]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '8',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/show.html [ array (
+  0 => 'product',
+  1 => 'recommends',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006785s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000641s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 8 ) AND `product`.`delete_time` IS NULL LIMIT 1 [ RunTime:0.000447s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `gallery` [ RunTime:0.001345s ]
+[ sql ] [ SQL ] SELECT * FROM `gallery` WHERE  `product_id` = 8 [ RunTime:0.000758s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_recommend` = 1  AND `id` <> 8 ) AND `product`.`delete_time` IS NULL ORDER BY `is_top` DESC [ RunTime:0.001904s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.003109s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36,53,56) [ RunTime:0.004522s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:19+08:00] 127.0.0.1 POST 127.0.0.1:8000/index/Cart/store
+[运行时间：0.007348s] [吞吐率：136.09req/s] [内存消耗：436.48kb] [文件加载：99]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'product_id' => '8',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001264s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000822s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `product_id` = 8  AND `customer_id` = 63 LIMIT 1 [ RunTime:0.000490s ]
+[ sql ] [ SQL ] INSERT INTO `cart` (`product_id` , `customer_id`) VALUES (8 , 63) [ RunTime:0.000347s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:19+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.019863s] [吞吐率：50.35req/s] [内存消耗：607.99kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004516s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.002108s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000499s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001028s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 8 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000433s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001838s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 58 [ RunTime:0.002174s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:23+08:00] 127.0.0.1 DELETE 127.0.0.1:8000/index/Cart/destroy
+[运行时间：0.010572s] [吞吐率：94.59req/s] [内存消耗：577.80kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '4',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000497s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000483s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `id` = 6 [ RunTime:0.000277s ]
+[ sql ] [ SQL ] DELETE FROM `cart` WHERE  `id` = 6 [ RunTime:0.002053s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000787s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:26+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.023574s] [吞吐率：42.42req/s] [内存消耗：604.09kb] [文件加载：105]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000603s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.001027s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000480s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000303s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.001112s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001349s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.001864s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Index/show/id/7
+[运行时间：0.020968s] [吞吐率：47.69req/s] [内存消耗：582.39kb] [文件加载：106]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '7',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/show.html [ array (
+  0 => 'product',
+  1 => 'recommends',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006515s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001320s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL LIMIT 1 [ RunTime:0.001412s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `gallery` [ RunTime:0.001448s ]
+[ sql ] [ SQL ] SELECT * FROM `gallery` WHERE  `product_id` = 7 [ RunTime:0.001063s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_recommend` = 1  AND `id` <> 7 ) AND `product`.`delete_time` IS NULL ORDER BY `is_top` DESC [ RunTime:0.001416s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001679s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36,53,58) [ RunTime:0.000781s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:30+08:00] 127.0.0.1 POST 127.0.0.1:8000/index/Cart/store
+[运行时间：0.014726s] [吞吐率：67.91req/s] [内存消耗：436.45kb] [文件加载：99]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'product_id' => '7',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000960s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.004483s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `product_id` = 7  AND `customer_id` = 63 LIMIT 1 [ RunTime:0.001065s ]
+[ sql ] [ SQL ] INSERT INTO `cart` (`product_id` , `customer_id`) VALUES (7 , 63) [ RunTime:0.000297s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:30+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.022543s] [吞吐率：44.36req/s] [内存消耗：606.96kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003238s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000865s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.001458s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000977s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL [ RunTime:0.001662s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.002518s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 56 [ RunTime:0.001615s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:35+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Index/show/id/8
+[运行时间：0.018343s] [吞吐率：54.52req/s] [内存消耗：582.36kb] [文件加载：106]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '8',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/show.html [ array (
+  0 => 'product',
+  1 => 'recommends',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003412s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001106s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 8 ) AND `product`.`delete_time` IS NULL LIMIT 1 [ RunTime:0.001035s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `gallery` [ RunTime:0.001087s ]
+[ sql ] [ SQL ] SELECT * FROM `gallery` WHERE  `product_id` = 8 [ RunTime:0.002267s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_recommend` = 1  AND `id` <> 8 ) AND `product`.`delete_time` IS NULL ORDER BY `is_top` DESC [ RunTime:0.001265s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000896s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36,53,56) [ RunTime:0.000608s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:36+08:00] 127.0.0.1 POST 127.0.0.1:8000/index/Cart/store
+[运行时间：0.010760s] [吞吐率：92.94req/s] [内存消耗：436.45kb] [文件加载：99]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'product_id' => '8',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000720s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000959s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `product_id` = 8  AND `customer_id` = 63 LIMIT 1 [ RunTime:0.001406s ]
+[ sql ] [ SQL ] INSERT INTO `cart` (`product_id` , `customer_id`) VALUES (8 , 63) [ RunTime:0.000471s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.016830s] [吞吐率：59.42req/s] [内存消耗：615.13kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001028s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.003524s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.001670s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001294s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (7,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000720s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001415s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (56,58) [ RunTime:0.000610s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:39+08:00] 127.0.0.1 POST 127.0.0.1:8000/index/Cart/store
+[运行时间：0.041884s] [吞吐率：23.88req/s] [内存消耗：435.79kb] [文件加载：99]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '12',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'product_id' => '8',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004751s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.002033s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `product_id` = 8  AND `customer_id` = 63 LIMIT 1 [ RunTime:0.002801s ]
+[ sql ] [ SQL ] UPDATE `cart`  SET `num` = `num` + 1  WHERE  `id` = 8 [ RunTime:0.025357s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:39+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Cart/index
+[运行时间：0.026633s] [吞吐率：37.55req/s] [内存消耗：615.07kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Index/show/id/8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/Cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011806s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.004031s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000746s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.002789s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` IN (7,8) ) AND `product`.`delete_time` IS NULL [ RunTime:0.000978s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000900s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (56,58) [ RunTime:0.000387s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:27:47+08:00] 127.0.0.1 DELETE 127.0.0.1:8000/index/Cart/destroy
+[运行时间：0.018101s] [吞吐率：55.25req/s] [内存消耗：586.57kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '4',
+  'accept' => '*/*',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'origin' => 'http://127.0.0.1:8000',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'http://127.0.0.1:8000/index/Cart/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+  'id' => '8',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001003s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.003059s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `id` = 8 [ RunTime:0.001026s ]
+[ sql ] [ SQL ] DELETE FROM `cart` WHERE  `id` = 8 [ RunTime:0.001753s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 63 [ RunTime:0.000980s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001374s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000919s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:28:20+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.032410s] [吞吐率：30.85req/s] [内存消耗：604.00kb] [文件加载：105]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004006s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.001805s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.002806s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.003847s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.002988s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000564s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000408s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000746s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000355s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:29:10+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.020900s] [吞吐率：47.85req/s] [内存消耗：633.58kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003175s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.002371s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000795s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000623s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000450s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000879s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000589s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000494s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:32:40+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.024004s] [吞吐率：41.66req/s] [内存消耗：605.19kb] [文件加载：105]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004711s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.001108s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000521s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000775s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000809s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000316s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001033s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000612s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000671s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:33:06+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.025983s] [吞吐率：38.49req/s] [内存消耗：633.58kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => 'adverts',
+  1 => 'banners',
+  2 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000730s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.002896s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.001292s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001014s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.005038s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.001074s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.001663s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001006s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.001416s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000466s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:33:09+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Category/index
+[运行时间：0.019273s] [吞吐率：51.89req/s] [内存消耗：208.28kb] [文件加载：88]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-05-03T21:33:54+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Category/index
+[运行时间：0.022465s] [吞吐率：44.51req/s] [内存消耗：535.52kb] [文件加载：103]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001838s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.001436s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.008331s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000877s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000327s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:39:47+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Category/index
+[运行时间：0.028012s] [吞吐率：35.70req/s] [内存消耗：579.73kb] [文件加载：106]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/category/index.html [ array (
+  0 => '_category',
+  1 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003773s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.001367s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.002939s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.001803s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.003954s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.001636s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:39:51+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.021917s] [吞吐率：45.63req/s] [内存消耗：634.34kb] [文件加载：107]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Category/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => '_index',
+  1 => 'adverts',
+  2 => 'banners',
+  3 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001441s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.000937s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000312s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000354s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000935s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000564s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000568s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:39:54+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Category/index
+[运行时间：0.018663s] [吞吐率：53.58req/s] [内存消耗：566.41kb] [文件加载：104]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/category/index.html [ array (
+  0 => '_category',
+  1 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.004909s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.001331s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.002045s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.001931s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000679s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.001120s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:41:44+08:00] 127.0.0.1 GET 127.0.0.1:8000/index/Category/index
+[运行时间：0.012290s] [吞吐率：81.37req/s] [内存消耗：586.27kb] [文件加载：106]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/category/index.html [ array (
+  0 => '_category',
+  1 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000596s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.000874s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000573s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000411s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000516s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000530s ]
+---------------------------------------------------------------
+
+[2020-05-03T21:42:13+08:00] 127.0.0.1 GET 127.0.0.1:8000/
+[运行时间：0.018866s] [吞吐率：53.01req/s] [内存消耗：605.27kb] [文件加载：105]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/index/Category/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u; token=f74b147aca96e2d72f03c3fe3a7d3945',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/index/view/index/index.html [ array (
+  0 => '_index',
+  1 => 'adverts',
+  2 => 'banners',
+  3 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.007028s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.000864s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000445s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000328s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000266s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000363s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000493s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` DESC [ RunTime:0.000349s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (58,56,53,36,60) [ RunTime:0.000287s ]

@@ -1,0 +1,61 @@
+{extend name="Layout/app" /}
+
+{block name="content"}
+<div class="wrapper">
+    <div class="page-my-order" data-log="我的订单">
+        <div class="header">
+            <div class="left"><a title="小米商城" data-log="HEAD-首页" onclick="history.go(-1)" class="home"><img
+                    src="http://s1.mi.com/m/images/m/icon_back_n.png" class="ib"></a></div>
+            <div class="tit"><h2 data-log="HEAD-标题-我的订单"><span class="title">我的订单</span></h2></div>
+            <div class="right"><a href="/1/#/search/index">
+                <div class="icon icon-search"></div>
+            </a></div>
+        </div>
+        <div class="order_list">
+
+            {volist name="orders" id="order"}
+            <div class="ol-item">
+                <div>
+                    <div class="oi1">
+                        <div class="oi11">
+                            <div class="oi111"><p>
+                                <strong>订单日期：</strong><span>{$order->create_time|date='Y-m-d H:i'}</span></p></div>
+                            <div class="oi112"><p><strong>订单编号：</strong><span>{$order->order_no}</span></p></div>
+                        </div>
+                        <div class="oi12"><p>{$order_status["$order->status"]}</p></div>
+                    </div>
+                    <div class="oi2">
+                        <ul>
+                            {foreach $order->order_products as $order_product}
+                            <li>
+                                <div class="oi21">
+                                    <div class="img"><img src="{$order_product->product->photo->image}"></div>
+                                </div>
+                                <div class="oi22"><p>{$order_product->product->name}</p></div>
+                            </li>
+                            {/foreach}
+                        </ul>
+                    </div>
+                    <div class="oi3">
+                        <p>
+                            <span>共{$order->order_products|count}件商品</span><span>总金额：</span><strong>{$order->total_price|number_format=2}元</strong>
+                        </p>
+                    </div>
+
+                    {if $order->status == 1}
+                    <div class="oi4">
+                        <a href="/index/Order/pay/id/{$order->id}" class="org">立即付款</a>
+                        <a href="javascript:;">取消订单</a>
+                    </div>
+                    {/if}
+                </div>
+            </div>
+            {/volist}
+        </div>
+
+        {include file="Layout/shared/_footer"}
+
+    </div>
+</div>
+{/block}
+

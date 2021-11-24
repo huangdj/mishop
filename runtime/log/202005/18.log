@@ -1,0 +1,1138 @@
+---------------------------------------------------------------
+
+[2020-05-18T10:10:45+08:00] 59.174.164.184 GET mishop.holyzq.com/admin
+[运行时间：0.076660s] [吞吐率：13.04req/s] [内存消耗：898.20kb] [文件加载：124]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-05-18T10:10:47+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/User/login
+[运行时间：0.008581s] [吞吐率：116.54req/s] [内存消耗：636.95kb] [文件加载：123]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/user/login.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-05-18T10:10:47+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/user/verify.html
+[运行时间：0.008446s] [吞吐率：118.40req/s] [内存消耗：549.75kb] [文件加载：119]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/User/login',
+  'sec-fetch-dest' => 'image',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-05-18T10:10:55+08:00] 59.174.164.184 POST mishop.holyzq.com/admin/user/login.html
+[运行时间：0.043610s] [吞吐率：22.93req/s] [内存消耗：956.73kb] [文件加载：134]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/User/login',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'https://mishop.holyzq.com',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '38',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'holy',
+  'password' => '123123',
+  'captcha' => '9957',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002213s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013503s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  ( `name` = 'holy' OR `email` = 'holy' )  AND `password` = '4b13955235' LIMIT 1 [ RunTime:0.001367s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:10:57+08:00] 59.174.164.184 GET mishop.holyzq.com/admin
+[运行时间：0.004417s] [吞吐率：226.40req/s] [内存消耗：756.48kb] [文件加载：132]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/user/login.html',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/index/index.html [ array (
+  0 => '_admin',
+) ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:02+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Brand/index
+[运行时间：0.010801s] [吞吐率：92.59req/s] [内存消耗：969.87kb] [文件加载：141]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/brand/index.html [ array (
+  0 => '_mishop',
+  1 => '_brand',
+  2 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000790s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.001343s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000241s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000238s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:03+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Category/index
+[运行时间：0.015572s] [吞吐率：64.22req/s] [内存消耗：1,096.11kb] [文件加载：144]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Brand/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/category/index.html [ array (
+  0 => '_mishop',
+  1 => '_category',
+  2 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000417s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.002223s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000328s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000286s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.001864s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000981s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:04+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Product/index
+[运行时间：0.018265s] [吞吐率：54.75req/s] [内存消耗：1,266.84kb] [文件加载：152]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Category/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/product/index.html [ array (
+  0 => '_mishop',
+  1 => '_product',
+  2 => 'categories',
+  3 => 'brands',
+  4 => 'products',
+  5 => 'attributes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000407s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.000591s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000317s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000265s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000408s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000280s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000432s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  `is_show` = 1 [ RunTime:0.000219s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.001952s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `product` WHERE `product`.`delete_time` IS NULL [ RunTime:0.000229s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE `product`.`delete_time` IS NULL ORDER BY `created_at` DESC LIMIT 0,12 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (56,36,60,53,58) [ RunTime:0.000217s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  `id` IN (2,7,6) [ RunTime:0.000250s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product_category` [ RunTime:0.000929s ]
+[ sql ] [ SQL ] SELECT `category`.*,`pivot`.`id` AS `pivot__id`,`pivot`.`category_id` AS `pivot__category_id`,`pivot`.`product_id` AS `pivot__product_id` FROM `category` INNER JOIN `product_category` `pivot` ON `pivot`.`category_id`=`category`.`id` WHERE  `pivot`.`product_id` IN (7,2,1,6,8) [ RunTime:0.000286s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:05+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Category/index
+[运行时间：0.007372s] [吞吐率：135.65req/s] [内存消耗：980.69kb] [文件加载：142]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Product/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/category/index.html [ array (
+  0 => '_mishop',
+  1 => '_category',
+  2 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000421s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.000598s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000253s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000408s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000247s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:09+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Product/trash
+[运行时间：0.011318s] [吞吐率：88.36req/s] [内存消耗：1,169.06kb] [文件加载：151]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Category/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/product/trash.html [ array (
+  0 => '_mishop',
+  1 => '_product',
+  2 => 'categories',
+  3 => 'brands',
+  4 => '_trash',
+  5 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000467s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.000610s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000302s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000259s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000398s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000228s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000433s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  `is_show` = 1 [ RunTime:0.000222s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000450s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `product` WHERE `product`.`delete_time` IS NOT NULL [ RunTime:0.000195s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE `product`.`delete_time` IS NOT NULL ORDER BY `created_at` DESC LIMIT 0,12 [ RunTime:0.000216s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 41 [ RunTime:0.000173s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  `id` = 1 [ RunTime:0.000176s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product_category` [ RunTime:0.000374s ]
+[ sql ] [ SQL ] SELECT `category`.*,`pivot`.`id` AS `pivot__id`,`pivot`.`category_id` AS `pivot__category_id`,`pivot`.`product_id` AS `pivot__product_id` FROM `category` INNER JOIN `product_category` `pivot` ON `pivot`.`category_id`=`category`.`id` WHERE  `pivot`.`product_id` = 5 [ RunTime:0.000251s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:10+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Advert/index
+[运行时间：0.023004s] [吞吐率：43.47req/s] [内存消耗：1,111.31kb] [文件加载：147]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Product/trash',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/advert/index.html [ array (
+  0 => '_advertCenter',
+  1 => '_advert',
+  2 => 'categories',
+  3 => 'adverts',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000439s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert_category` [ RunTime:0.012587s ]
+[ sql ] [ SQL ] SELECT * FROM `advert_category` [ RunTime:0.000251s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.001910s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `advert` [ RunTime:0.000198s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000232s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000410s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47,46,45,44,43) [ RunTime:0.000258s ]
+[ sql ] [ SQL ] SELECT * FROM `advert_category` WHERE  `id` IN (2,1) [ RunTime:0.000226s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:12+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/AdvertCategory/index
+[运行时间：0.006103s] [吞吐率：163.85req/s] [内存消耗：972.91kb] [文件加载：140]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Advert/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/advertcategory/index.html [ array (
+  0 => '_advertCenter',
+  1 => '_advertCategory',
+  2 => 'advertCategories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000444s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert_category` [ RunTime:0.000585s ]
+[ sql ] [ SQL ] SELECT * FROM `advert_category` ORDER BY `sort` DESC [ RunTime:0.000270s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:13+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Advert/index
+[运行时间：0.008160s] [吞吐率：122.55req/s] [内存消耗：996.63kb] [文件加载：145]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/AdvertCategory/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/advert/index.html [ array (
+  0 => '_advertCenter',
+  1 => '_advert',
+  2 => 'categories',
+  3 => 'adverts',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000413s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert_category` [ RunTime:0.000585s ]
+[ sql ] [ SQL ] SELECT * FROM `advert_category` [ RunTime:0.000214s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.000486s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `advert` [ RunTime:0.000189s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000227s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000414s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47,46,45,44,43) [ RunTime:0.000259s ]
+[ sql ] [ SQL ] SELECT * FROM `advert_category` WHERE  `id` IN (2,1) [ RunTime:0.000220s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:16+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Menu/index
+[运行时间：0.015277s] [吞吐率：65.46req/s] [内存消耗：988.65kb] [文件加载：190]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Advert/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/menu/index.html [ array (
+  0 => '_weChat',
+  1 => '_menu',
+  2 => 'buttons',
+) ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:44+08:00] 59.174.164.184 POST mishop.holyzq.com/admin/Menu/update
+[运行时间：2.957547s] [吞吐率：0.34req/s] [内存消耗：1,294.53kb] [文件加载：242]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Menu/index',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'origin' => 'https://mishop.holyzq.com',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'content-length' => '2847',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+)
+[ info ] [ PARAM ] array (
+  'buttons' => 
+  array (
+    0 => 
+    array (
+      'type' => 'click',
+      'name' => '商城中心',
+      'value' => '',
+      'sub_button' => 
+      array (
+        0 => 
+        array (
+          'type' => 'click',
+          'name' => '精选推荐',
+          'value' => 'recommend',
+        ),
+        1 => 
+        array (
+          'type' => 'click',
+          'name' => '新品到货',
+          'value' => 'new',
+        ),
+        2 => 
+        array (
+          'type' => 'view',
+          'name' => '进入商城',
+          'value' => 'https://mishop.holyzq.com',
+        ),
+        3 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        4 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'type' => 'click',
+      'name' => '长乐未央',
+      'value' => '',
+      'sub_button' => 
+      array (
+        0 => 
+        array (
+          'type' => 'view',
+          'name' => 'PHP培训',
+          'value' => 'https://www.whphp.com',
+        ),
+        1 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        2 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        3 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        4 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+      ),
+    ),
+    2 => 
+    array (
+      'type' => 'view',
+      'name' => 'ITFun.tv',
+      'value' => 'https://itfun.tv/',
+      'sub_button' => 
+      array (
+        0 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        1 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        2 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        3 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+        4 => 
+        array (
+          'type' => 'click',
+          'name' => '',
+          'value' => '',
+        ),
+      ),
+    ),
+  ),
+)
+[ info ] [ VIEW ] /var/www/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => '_weChat',
+  1 => '_menu',
+  2 => 'code',
+  3 => 'msg',
+  4 => 'data',
+  5 => 'url',
+  6 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-05-18T10:11:47+08:00] 59.174.164.184 GET mishop.holyzq.com/admin/Menu/index
+[运行时间：0.150555s] [吞吐率：6.64req/s] [内存消耗：1,143.46kb] [文件加载：242]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=bl40m39t5q92m1ev1kp99hsrcm',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/admin/Menu/update',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/application/admin/view/menu/index.html [ array (
+  0 => '_weChat',
+  1 => '_menu',
+  2 => 'buttons',
+) ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:15+08:00] 223.166.222.111 POST mishop.holyzq.com/index/Wechat/index?signature=42b0dcc0af49da6f64db3fce08df622c9b5ea1cd&timestamp=1589767935&nonce=938135751&openid=ozw1Nwy8AFyVPnV61cLdQk0NXLT4
+[运行时间：0.021550s] [吞吐率：46.40req/s] [内存消耗：1,077.67kb] [文件加载：215]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'text/xml',
+  'content-length' => '325',
+  'pragma' => 'no-cache',
+  'host' => 'mishop.holyzq.com',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/4.0',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '42b0dcc0af49da6f64db3fce08df622c9b5ea1cd',
+  'timestamp' => '1589767935',
+  'nonce' => '938135751',
+  'openid' => 'ozw1Nwy8AFyVPnV61cLdQk0NXLT4',
+)
+---------------------------------------------------------------
+
+[2020-05-18T10:12:15+08:00] 59.174.164.184 GET mishop.holyzq.com/
+[运行时间：0.007198s] [吞吐率：138.93req/s] [内存消耗：853.18kb] [文件加载：187]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-05-18T10:12:16+08:00] 59.174.164.184 GET mishop.holyzq.com/?code=08172Nup13Kcum0yefup1EPtup172Nu4&state=29b2b5226e13a2def89951cbcb1415eb
+[运行时间：0.209292s] [吞吐率：4.78req/s] [内存消耗：1,277.58kb] [文件加载：232]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'code' => '08172Nup13Kcum0yefup1EPtup172Nu4',
+  'state' => '29b2b5226e13a2def89951cbcb1415eb',
+)
+[ info ] null
+[ info ] [ DB ] INIT mysql
+[ info ] /
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000419s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `customer` [ RunTime:0.002860s ]
+[ sql ] [ SQL ] SELECT * FROM `customer` WHERE  `openid` = 'ozw1Nwy8AFyVPnV61cLdQk0NXLT4' LIMIT 1 [ RunTime:0.000342s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:16+08:00] 59.174.164.184 GET mishop.holyzq.com/
+[运行时间：0.009660s] [吞吐率：103.52req/s] [内存消耗：1,223.35kb] [文件加载：194]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/index/index.html [ array (
+  0 => '_index',
+  1 => 'adverts',
+  2 => 'banners',
+  3 => 'products',
+  4 => 'total',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000415s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `advert` [ RunTime:0.000623s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 1 ORDER BY `sort` DESC [ RunTime:0.000348s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000414s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (46,45,44,43) [ RunTime:0.000234s ]
+[ sql ] [ SQL ] SELECT * FROM `advert` WHERE  `category_id` = 2 ORDER BY `sort` DESC [ RunTime:0.000252s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (49,48,47) [ RunTime:0.000203s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000463s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL ORDER BY `sort` LIMIT 2 [ RunTime:0.000337s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36) [ RunTime:0.000204s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `product` WHERE (  `is_onsale` = 1 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000201s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:18+08:00] 59.174.164.184 GET mishop.holyzq.com/index/Cart/index
+[运行时间：0.008553s] [吞吐率：116.92req/s] [内存消耗：1,166.05kb] [文件加载：193]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000388s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.002165s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 9 [ RunTime:0.000261s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:20+08:00] 59.174.164.184 GET mishop.holyzq.com/index/Category/index
+[运行时间：0.006912s] [吞吐率：144.68req/s] [内存消耗：969.29kb] [文件加载：140]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/Cart/index',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/category/index.html [ array (
+  0 => '_category',
+  1 => 'categories',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000480s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `category` [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` = 0 ORDER BY `sort` [ RunTime:0.000314s ]
+[ sql ] [ SQL ] SELECT * FROM `category` WHERE  `parent_id` IN (1,5) ORDER BY `sort` [ RunTime:0.000255s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (3,9,2,10,8,11) [ RunTime:0.000230s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:21+08:00] 59.174.164.184 GET mishop.holyzq.com/index/Category/product?category_id=8
+[运行时间：0.007218s] [吞吐率：138.54req/s] [内存消耗：962.45kb] [文件加载：142]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/Category/index',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'category_id' => '8',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/category/product.html [ array (
+  0 => '_category',
+  1 => 'products',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000407s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000672s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product_category` [ RunTime:0.000472s ]
+[ sql ] [ SQL ] SELECT * FROM `product_category` WHERE  `category_id` = 8 [ RunTime:0.000243s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  (  `id` IN (5,7) ) ) AND `product`.`delete_time` IS NULL ORDER BY `is_top` DESC,`created_at` [ RunTime:0.000380s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000377s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 56 [ RunTime:0.000190s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:22+08:00] 59.174.164.184 GET mishop.holyzq.com/index/Index/show/id/7
+[运行时间：0.011182s] [吞吐率：89.43req/s] [内存消耗：1,212.89kb] [文件加载：195]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/Category/product?category_id=8',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '7',
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/index/show.html [ array (
+  0 => '_index',
+  1 => 'product',
+  2 => 'recommends',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000445s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000669s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL LIMIT 1 [ RunTime:0.000400s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `gallery` [ RunTime:0.002768s ]
+[ sql ] [ SQL ] SELECT * FROM `gallery` WHERE  `product_id` = 7 [ RunTime:0.000215s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `is_recommend` = 1  AND `id` <> 7 ) AND `product`.`delete_time` IS NULL ORDER BY `is_top` DESC [ RunTime:0.000362s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000398s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` IN (60,36,53,58) [ RunTime:0.000213s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:22+08:00] 59.174.164.184 POST mishop.holyzq.com/index/Cart/store
+[运行时间：0.007144s] [吞吐率：139.98req/s] [内存消耗：994.22kb] [文件加载：182]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'content-length' => '12',
+  'referer' => 'https://mishop.holyzq.com/index/Index/show/id/7',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'origin' => 'https://mishop.holyzq.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-us',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => '*/*',
+  'host' => 'mishop.holyzq.com',
+)
+[ info ] [ PARAM ] array (
+  'product_id' => '7',
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000413s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000635s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `product_id` = 7  AND `customer_id` = 9 LIMIT 1 [ RunTime:0.000270s ]
+[ sql ] [ SQL ] INSERT INTO `cart` (`product_id` , `customer_id`) VALUES (7 , 9) [ RunTime:0.000267s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:23+08:00] 59.174.164.184 GET mishop.holyzq.com/index/cart/index
+[运行时间：0.007468s] [吞吐率：133.90req/s] [内存消耗：1,155.19kb] [文件加载：192]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/Index/show/id/7',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000439s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000650s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 9 [ RunTime:0.000259s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000489s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000290s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000372s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 56 [ RunTime:0.000183s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:24+08:00] 59.174.164.184 GET mishop.holyzq.com/index/Order/checkout
+[运行时间：0.011022s] [吞吐率：90.73req/s] [内存消耗：1,209.28kb] [文件加载：195]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/cart/index',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/order/checkout.html [ array (
+  0 => 'carts',
+  1 => 'count',
+  2 => 'address',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000406s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000590s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 9 [ RunTime:0.000270s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000487s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000292s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `address` [ RunTime:0.001903s ]
+[ sql ] [ SQL ] SELECT * FROM `address` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000213s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `photo` [ RunTime:0.000424s ]
+[ sql ] [ SQL ] SELECT * FROM `photo` WHERE  `id` = 56 LIMIT 1 [ RunTime:0.000196s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:25+08:00] 59.174.164.184 POST mishop.holyzq.com/index/Order/store
+[运行时间：0.020238s] [吞吐率：49.41req/s] [内存消耗：1,233.10kb] [文件加载：200]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'content-length' => '12',
+  'referer' => 'https://mishop.holyzq.com/index/Order/checkout',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'origin' => 'https://mishop.holyzq.com',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'en-us',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => '*/*',
+  'host' => 'mishop.holyzq.com',
+)
+[ info ] [ PARAM ] array (
+  'address_id' => '6',
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000459s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000668s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 9 [ RunTime:0.000277s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `product` [ RunTime:0.000481s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000300s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order` [ RunTime:0.001179s ]
+[ sql ] [ SQL ] INSERT INTO `order` (`customer_id` , `total_price` , `status` , `order_no` , `create_time` , `update_time`) VALUES (9 , 0.01 , 1 , '20200518101225904159' , '2020-05-18 10:12:25.779638' , '2020-05-18 10:12:25.779647') [ RunTime:0.000210s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `address` [ RunTime:0.000456s ]
+[ sql ] [ SQL ] SELECT * FROM `address` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000206s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_address` [ RunTime:0.001008s ]
+[ sql ] [ SQL ] INSERT INTO `order_address` (`province` , `city` , `area` , `detail` , `name` , `tel` , `order_id`) VALUES ('山西' , '晋城' , '泽州县' , '哈哈哈' , '哈哈哈' , '12345678' , 24) [ RunTime:0.000174s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 9 [ RunTime:0.000215s ]
+[ sql ] [ SQL ] SELECT * FROM `product` WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000230s ]
+[ sql ] [ SQL ] UPDATE `product`  SET `stock` = `stock` - 1  WHERE (  `id` = 7 ) AND `product`.`delete_time` IS NULL [ RunTime:0.000285s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_product` [ RunTime:0.000979s ]
+[ sql ] [ SQL ] REPLACE INTO `order_product` (`order_id` , `product_id` , `num`) VALUES (24 , 7 , 1) [ RunTime:0.000173s ]
+[ sql ] [ SQL ] DELETE FROM `cart` WHERE  `customer_id` = 9 [ RunTime:0.000408s ]
+---------------------------------------------------------------
+
+[2020-05-18T10:12:30+08:00] 59.174.164.184 GET mishop.holyzq.com/index/Cart/index
+[运行时间：0.005668s] [吞吐率：176.43req/s] [内存消耗：1,126.23kb] [文件加载：191]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://mishop.holyzq.com/index/Order/checkout',
+  'accept-language' => 'en-us',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c2d) NetType/WIFI Language/zh_CN',
+  'cookie' => 'PHPSESSID=9agp8ise3jtcmka9tpb4k97qd6; UM_distinctid=1708ee7f33c4b5-037366112042c4-221c2416-4a640-1708ee7f33d47f',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] {"id":9,"openid":"ozw1Nwy8AFyVPnV61cLdQk0NXLT4","sex":1,"nickname":"Holyzq","city":"\u58a8\u5c14\u672c","province":"\u7ef4\u591a\u5229\u4e9a","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/EY0dC7dXRasmhslgTE85vs8F0QlGERyRibeBpsxficWO8iaQqR261pYqpFTgSqILoAYvIwUQwcvxYvQe3AuHrf7pA\/132","created_at":"2020-05-07 15:18:29","updated_at":null,"address_id":6}
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /var/www/mishop/application/index/view/cart/index.html [ array (
+  0 => 'carts',
+  1 => 'count',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000471s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `cart` [ RunTime:0.000603s ]
+[ sql ] [ SQL ] SELECT * FROM `cart` WHERE  `customer_id` = 9 [ RunTime:0.000260s ]
+---------------------------------------------------------------
+
+[2020-05-18T12:04:23+08:00] 47.98.103.141 GET mishop.holyzq.com/
+[运行时间：0.004338s] [吞吐率：230.52req/s] [内存消耗：847.73kb] [文件加载：187]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'Keep-Alive',
+  'host' => 'mishop.holyzq.com',
+  'user-agent' => 'Mozilla/5.0 chrome(windows nt/Windows NT;)Chrome',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null

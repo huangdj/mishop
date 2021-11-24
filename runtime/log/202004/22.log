@@ -1,0 +1,3120 @@
+---------------------------------------------------------------
+
+[2020-04-22T10:08:32+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.083210s] [吞吐率：12.02req/s] [内存消耗：605.22kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:15:42+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.013903s] [吞吐率：71.93req/s] [内存消耗：334.84kb] [文件加载：77]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+[ error ] [0]模板文件不存在:/Users/holy/Developer/ThinkPHP/mishop/application/admin/view/content.html[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/Template.php:1243]
+---------------------------------------------------------------
+
+[2020-04-22T10:16:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.013841s] [吞吐率：72.25req/s] [内存消耗：358.98kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:17:43+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.008797s] [吞吐率：113.67req/s] [内存消耗：417.63kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:18:48+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005742s] [吞吐率：174.15req/s] [内存消耗：417.63kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:23:06+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.005630s] [吞吐率：177.62req/s] [内存消耗：417.63kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:23:08+08:00] 127.0.0.1 GET 127.0.0.1:8000/Brand/index.html
+[运行时间：0.005702s] [吞吐率：175.38req/s] [内存消耗：160.91kb] [文件加载：54]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-22T10:23:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.006808s] [吞吐率：146.89req/s] [内存消耗：417.55kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:23:29+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin
+[运行时间：0.004417s] [吞吐率：226.40req/s] [内存消耗：335.92kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:23:32+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.005836s] [吞吐率：171.35req/s] [内存消耗：369.29kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:24:39+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.006700s] [吞吐率：149.25req/s] [内存消耗：369.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:24:58+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.005951s] [吞吐率：168.03req/s] [内存消耗：369.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:25:15+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.004525s] [吞吐率：221.00req/s] [内存消耗：365.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:25:31+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.004964s] [吞吐率：201.45req/s] [内存消耗：365.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:25:53+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.003786s] [吞吐率：264.12req/s] [内存消耗：357.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:26:15+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.007355s] [吞吐率：135.96req/s] [内存消耗：357.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:26:33+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.004920s] [吞吐率：203.26req/s] [内存消耗：357.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:28:16+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.008189s] [吞吐率：122.12req/s] [内存消耗：357.49kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:29:02+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index.html
+[运行时间：0.009373s] [吞吐率：106.69req/s] [内存消耗：357.20kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:29:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.004716s] [吞吐率：212.05req/s] [内存消耗：298.28kb] [文件加载：72]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2020-04-22T10:31:23+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.007101s] [吞吐率：140.82req/s] [内存消耗：345.64kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:33:30+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.007519s] [吞吐率：133.00req/s] [内存消耗：345.34kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:33:52+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.005813s] [吞吐率：172.03req/s] [内存消耗：345.34kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:34:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.009999s] [吞吐率：100.01req/s] [内存消耗：345.34kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:34:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.006449s] [吞吐率：155.06req/s] [内存消耗：345.34kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:34:37+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.003036s] [吞吐率：329.38req/s] [内存消耗：320.55kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:34:39+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.003837s] [吞吐率：260.61req/s] [内存消耗：320.55kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:34:54+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.006940s] [吞吐率：144.09req/s] [内存消耗：345.33kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:34:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.005900s] [吞吐率：169.49req/s] [内存消耗：345.33kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:35:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.006305s] [吞吐率：158.60req/s] [内存消耗：345.33kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:36:33+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.006792s] [吞吐率：147.23req/s] [内存消耗：345.63kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:37:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.005428s] [吞吐率：184.23req/s] [内存消耗：345.33kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:37:23+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/brand/store.html
+[运行时间：0.004928s] [吞吐率：202.92req/s] [内存消耗：305.49kb] [文件加载：75]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '98',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => '波司登',
+  'url' => 'https://www.mi.com/',
+  'sort' => '11',
+  'description' => 'jAJHPJKAHDJH ',
+)
+[ error ] [0]variable type error： array[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/Response.php:403]
+---------------------------------------------------------------
+
+[2020-04-22T10:37:34+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/brand/store.html
+[运行时间：0.005117s] [吞吐率：195.43req/s] [内存消耗：322.06kb] [文件加载：73]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '98',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => '波司登',
+  'url' => 'https://www.mi.com/',
+  'sort' => '11',
+  'description' => 'jAJHPJKAHDJH ',
+)
+---------------------------------------------------------------
+
+[2020-04-22T10:41:02+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.009669s] [吞吐率：103.43req/s] [内存消耗：350.25kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:41:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.003555s] [吞吐率：281.31req/s] [内存消耗：320.63kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:41:09+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.004302s] [吞吐率：232.45req/s] [内存消耗：350.33kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:48:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.008442s] [吞吐率：118.45req/s] [内存消耗：320.92kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:50:26+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.002542s] [吞吐率：393.39req/s] [内存消耗：320.31kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:51:20+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/brand/store.html
+[运行时间：0.035349s] [吞吐率：28.29req/s] [内存消耗：486.86kb] [文件加载：80]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '221',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => '波司登',
+  'url' => 'http://bosideng.com/',
+  'sort' => '1',
+  'is_show' => '1',
+  'description' => '就卡还记得哈吉斯的好机会打卡',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000602s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.002516s ]
+[ sql ] [ SQL ] INSERT INTO `brand` (`name` , `url` , `sort` , `is_show` , `description`) VALUES ('波司登' , 'http://bosideng.com/' , 1 , 1 , '就卡还记得哈吉斯的好机会打卡') [ RunTime:0.005022s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:51:34+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.005127s] [吞吐率：195.04req/s] [内存消耗：320.91kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:51:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.005731s] [吞吐率：174.49req/s] [内存消耗：320.02kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:51:37+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.003047s] [吞吐率：328.19req/s] [内存消耗：319.71kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:51:41+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.003725s] [吞吐率：268.45req/s] [内存消耗：319.63kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:52:43+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/brand/store.html
+[运行时间：0.010375s] [吞吐率：96.39req/s] [内存消耗：423.38kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '208',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => '达芙妮',
+  'url' => 'http://www.daphne.com.cn/',
+  'sort' => '2',
+  'is_show' => '1',
+  'description' => '案件回到家卡对话框阿斯顿',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000789s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000626s ]
+[ sql ] [ SQL ] INSERT INTO `brand` (`name` , `url` , `sort` , `is_show` , `description`) VALUES ('达芙妮' , 'http://www.daphne.com.cn/' , 2 , 1 , '案件回到家卡对话框阿斯顿') [ RunTime:0.000695s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:52:46+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.002762s] [吞吐率：362.08req/s] [内存消耗：319.08kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/brand/store.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:52:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.004426s] [吞吐率：225.94req/s] [内存消耗：319.63kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:53:00+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/brand/store.html
+[运行时间：0.003029s] [吞吐率：330.16req/s] [内存消耗：327.30kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'url' => '',
+  'sort' => '',
+  'is_show' => '1',
+  'description' => '',
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:53:02+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.002606s] [吞吐率：383.71req/s] [内存消耗：319.05kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:53:05+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/brand/store.html
+[运行时间：0.002897s] [吞吐率：345.18req/s] [内存消耗：327.32kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '42',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => '111',
+  'url' => '',
+  'sort' => '',
+  'is_show' => '1',
+  'description' => '',
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:53:06+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.002799s] [吞吐率：357.27req/s] [内存消耗：319.07kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/brand/store.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:53:11+08:00] 127.0.0.1 POST 127.0.0.1:8000/admin/brand/store.html
+[运行时间：0.003962s] [吞吐率：252.40req/s] [内存消耗：327.32kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '47',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'origin' => 'http://127.0.0.1:8000',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'name' => '111',
+  'url' => '12313',
+  'sort' => '',
+  'is_show' => '1',
+  'description' => '',
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:53:13+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/add
+[运行时间：0.002130s] [吞吐率：469.48req/s] [内存消耗：319.07kb] [文件加载：76]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/brand/store.html',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/add.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2020-04-22T10:54:06+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.010391s] [吞吐率：96.24req/s] [内存消耗：424.38kb] [文件加载：80]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000524s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000618s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000304s ]
+[ error ] [0]variable type error： array[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/Response.php:403]
+---------------------------------------------------------------
+
+[2020-04-22T10:54:11+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.005777s] [吞吐率：173.10req/s] [内存消耗：423.85kb] [文件加载：80]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000482s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000775s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000377s ]
+[ error ] [0]variable type error： array[/Users/holy/Developer/ThinkPHP/mishop/thinkphp/library/think/Response.php:403]
+---------------------------------------------------------------
+
+[2020-04-22T10:54:14+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.005190s] [吞吐率：192.68req/s] [内存消耗：440.52kb] [文件加载：78]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000494s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000393s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:55:19+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.010727s] [吞吐率：93.22req/s] [内存消耗：478.94kb] [文件加载：83]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000541s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000535s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000396s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:55:38+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.007057s] [吞吐率：141.70req/s] [内存消耗：480.48kb] [文件加载：83]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000490s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000676s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000365s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:55:53+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.008104s] [吞吐率：123.39req/s] [内存消耗：470.43kb] [文件加载：88]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000525s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000330s ]
+[ error ] [8]Trying to get property 'name' of non-object[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/1e5db4c4d9793613f842794209b1e545.php:184]
+---------------------------------------------------------------
+
+[2020-04-22T10:57:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.008620s] [吞吐率：116.01req/s] [内存消耗：481.29kb] [文件加载：83]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000662s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000603s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000365s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:58:40+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.006815s] [吞吐率：146.74req/s] [内存消耗：481.17kb] [文件加载：83]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000512s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000575s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000326s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:58:50+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.004869s] [吞吐率：205.38req/s] [内存消耗：444.68kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000555s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000563s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000281s ]
+---------------------------------------------------------------
+
+[2020-04-22T10:59:47+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.016822s] [吞吐率：59.45req/s] [内存消耗：512.23kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000566s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000553s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.003924s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000808s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:00:27+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.006288s] [吞吐率：159.03req/s] [内存消耗：447.38kb] [文件加载：81]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000477s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000796s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000665s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000341s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:00:51+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.011962s] [吞吐率：83.60req/s] [内存消耗：541.65kb] [文件加载：90]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000545s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.001004s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000314s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000280s ]
+[ error ] [0]致命错误: Cannot access protected property think\paginator\driver\Bootstrap::$total[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/1e5db4c4d9793613f842794209b1e545.php:206]
+---------------------------------------------------------------
+
+[2020-04-22T11:01:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.009344s] [吞吐率：107.02req/s] [内存消耗：553.16kb] [文件加载：86]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000582s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000653s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000272s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000714s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:01:16+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=2
+[运行时间：0.007162s] [吞吐率：139.62req/s] [内存消耗：516.79kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000532s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000610s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 1,1 [ RunTime:0.000400s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:01:20+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.005038s] [吞吐率：198.49req/s] [内存消耗：515.69kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000542s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000539s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000213s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000217s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:01:46+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.008252s] [吞吐率：121.18req/s] [内存消耗：470.02kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000598s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000323s ]
+[ error ] [0]致命错误: Call to a member function total() on array[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/1e5db4c4d9793613f842794209b1e545.php:206]
+---------------------------------------------------------------
+
+[2020-04-22T11:01:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.008654s] [吞吐率：115.56req/s] [内存消耗：481.51kb] [文件加载：83]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000551s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000969s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC [ RunTime:0.000272s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:02:13+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.008094s] [吞吐率：123.55req/s] [内存消耗：553.69kb] [文件加载：86]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000551s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000255s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000322s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:02:16+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=2
+[运行时间：0.005777s] [吞吐率：173.10req/s] [内存消耗：516.47kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000488s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000568s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000232s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 1,1 [ RunTime:0.000248s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:02:24+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.006843s] [吞吐率：146.14req/s] [内存消耗：515.27kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000603s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.001205s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000365s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:04:54+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.009949s] [吞吐率：100.51req/s] [内存消耗：553.27kb] [文件加载：86]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000505s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000689s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000416s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000317s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:12+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.008605s] [吞吐率：116.21req/s] [内存消耗：553.16kb] [文件加载：86]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/add',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000540s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.001282s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000430s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000308s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:20+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E5%A6%AE
+[运行时间：0.008980s] [吞吐率：111.36req/s] [内存消耗：519.50kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '妮',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000642s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000797s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%妮%' ) [ RunTime:0.000835s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%妮%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.001022s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:22+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.006075s] [吞吐率：164.61req/s] [内存消耗：515.29kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E5%A6%AE',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000617s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000296s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000330s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=2
+[运行时间：0.007850s] [吞吐率：127.39req/s] [内存消耗：515.68kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001233s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.001135s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000266s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 1,1 [ RunTime:0.000287s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:30+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.006496s] [吞吐率：153.94req/s] [内存消耗：515.09kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E5%A6%AE',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000701s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000796s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000273s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000613s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:35+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.009058s] [吞吐率：110.40req/s] [内存消耗：518.41kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001035s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000887s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000476s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000635s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:38+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.005396s] [吞吐率：185.33req/s] [内存消耗：515.29kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000513s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000496s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000277s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000308s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:05:44+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.006436s] [吞吐率：155.38req/s] [内存消耗：518.41kb] [文件加载：84]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000547s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000736s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000405s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000428s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:06:27+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.009271s] [吞吐率：107.86req/s] [内存消耗：557.07kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000497s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000682s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000367s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000356s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:06:36+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.008327s] [吞吐率：120.09req/s] [内存消耗：556.95kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000594s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000573s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000540s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:06:57+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.010556s] [吞吐率：94.73req/s] [内存消耗：556.95kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000467s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000496s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000354s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000323s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:06:59+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.006852s] [吞吐率：145.94req/s] [内存消耗：516.86kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000573s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000627s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000285s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:07:00+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.010628s] [吞吐率：94.09req/s] [内存消耗：516.02kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001188s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.001023s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.001172s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.002140s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:07:03+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.004289s] [吞吐率：233.15req/s] [内存消耗：518.75kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000406s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000452s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000247s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000235s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:07:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.004050s] [吞吐率：246.91req/s] [内存消耗：515.95kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000439s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000203s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000239s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:07:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.003911s] [吞吐率：255.69req/s] [内存消耗：516.02kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000492s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000536s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000271s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000207s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:07:07+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.008920s] [吞吐率：112.11req/s] [内存消耗：515.93kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000677s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000738s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000257s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000435s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:07:28+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.010477s] [吞吐率：95.45req/s] [内存消耗：542.82kb] [文件加载：91]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000597s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000719s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000301s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000361s ]
+[ error ] [8]未定义变量: _get[/Users/holy/Developer/ThinkPHP/mishop/runtime/temp/1e5db4c4d9793613f842794209b1e545.php:133]
+---------------------------------------------------------------
+
+[2020-04-22T11:08:11+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.008643s] [吞吐率：115.70req/s] [内存消耗：553.82kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000647s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000467s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000252s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000231s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:08:17+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.009020s] [吞吐率：110.87req/s] [内存消耗：520.16kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000513s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.002804s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000638s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000603s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:09:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2
+[运行时间：0.007120s] [吞吐率：140.45req/s] [内存消耗：519.15kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'q' => '波',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000493s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` WHERE  (  `name` LIKE '%波%' ) [ RunTime:0.000320s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` WHERE  (  `name` LIKE '%波%' ) ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000424s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:11:02+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.005791s] [吞吐率：172.68req/s] [内存消耗：515.95kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000502s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000646s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000260s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000365s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:13:02+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index
+[运行时间：0.008451s] [吞吐率：118.33req/s] [内存消耗：553.84kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?q=%E6%B3%A2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000564s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000656s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000302s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000316s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:13:04+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=2
+[运行时间：0.004613s] [吞吐率：216.78req/s] [内存消耗：517.45kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000491s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000618s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000271s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 1,1 [ RunTime:0.000254s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:13:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.005235s] [吞吐率：191.02req/s] [内存消耗：516.34kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000484s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000586s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,1 [ RunTime:0.000337s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:28:19+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.008450s] [吞吐率：118.34req/s] [内存消耗：518.19kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000550s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000631s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000247s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000232s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:29:58+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.007203s] [吞吐率：138.83req/s] [内存消耗：517.08kb] [文件加载：85]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000544s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000553s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000304s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000266s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:30:48+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.010305s] [吞吐率：97.04req/s] [内存消耗：554.89kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000436s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000518s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000244s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000248s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:30:56+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.007483s] [吞吐率：133.64req/s] [内存消耗：554.89kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000531s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000587s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000263s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000269s ]
+---------------------------------------------------------------
+
+[2020-04-22T11:31:05+08:00] 127.0.0.1 GET 127.0.0.1:8000/admin/Brand/index?page=1
+[运行时间：0.008026s] [吞吐率：124.59req/s] [内存消耗：554.89kb] [文件加载：87]
+[ info ] [ LANG ] /Users/holy/Developer/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-dest' => 'document',
+  'referer' => 'http://127.0.0.1:8000/admin/Brand/index?page=2',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+  'cookie' => 'PHPSESSID=u13nis3hefjkglkpb9mlo91b9u',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /Users/holy/Developer/ThinkPHP/mishop/application/admin/view/brand/index.html [ array (
+  0 => 'brands',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000472s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000572s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `brand` [ RunTime:0.000239s ]
+[ sql ] [ SQL ] SELECT * FROM `brand` ORDER BY `sort` DESC LIMIT 0,12 [ RunTime:0.000325s ]

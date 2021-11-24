@@ -1,0 +1,150 @@
+.am-icon-close {
+    color: #f37b1d;
+}
+
+.am-icon-check {
+    color: #5eb95e;
+}
+
+.am-icon-check, .am-icon-close {
+    cursor: pointer;
+}
+
+.thumb {
+    max-height: 50px;
+    width: 80px;
+}
+
+.xParent {
+    cursor: pointer;
+}
+
+.xChildren {
+    display: none;
+}
+
+
+/***
+后台分页样式
+ */
+.pagination {
+    padding-left: 0;
+    margin: 1.5rem 0;
+    list-style: none;
+    color: #999;
+    text-align: left
+}
+
+.pagination:after, .pagination:before {
+    content: " ";
+    display: table
+}
+
+.pagination:after {
+    clear: both
+}
+
+.pagination > li {
+    display: inline-block
+}
+
+.pagination > li > a, .pagination > li > span {
+    border-radius: 4px;
+    position: relative;
+    display: block;
+    padding: .5em 1em;
+    text-decoration: none;
+    line-height: 1.2;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    margin-right: 5px
+}
+
+.pagination > li:last-child > a, .pagination > li:last-child > span {
+    margin-right: 0
+}
+
+.pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
+    background-color: #eee
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #0e90d2;
+    border-color: #0e90d2;
+    cursor: default
+}
+
+.pagination > .disabled > a, .pagination > .disabled > a:focus, .pagination > .disabled > a:hover, .pagination > .disabled > span, .pagination > .disabled > span:focus, .pagination > .disabled > span:hover {
+    color: #999;
+    background-color: #fff;
+    border-color: #ddd;
+    cursor: not-allowed;
+    pointer-events: none
+}
+
+.pagination .pagination-prev {
+    float: left
+}
+
+.pagination .pagination-prev a {
+    border-radius: 0
+}
+
+.pagination .pagination-next {
+    float: right
+}
+
+.pagination .pagination-next a {
+    border-radius: 0
+}
+
+.pagination-centered {
+    text-align: center
+}
+
+.pagination-right {
+    text-align: right
+}
+
+/***
+多图上传样式
+ */
+
+.am-gallery-imgbordered.xGallery .am-gallery-item img {
+    height: 150px;
+}
+
+.am-gallery-item {
+    position: relative;
+}
+
+.file-panel {
+    position: absolute;
+    height: 30px;
+    display: none;
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#80000000', endColorstr='#80000000') \0;
+    background: rgba(255, 0, 0, 0.5);
+    top: 0;
+    margin-left: 213px;
+    overflow: hidden;
+    z-index: 300;
+}
+
+.file-panel span.cancel {
+    background-position: -48px -24px;
+}
+
+.file-panel span {
+    width: 24px;
+    height: 24px;
+    display: inline;
+    float: right;
+    text-indent: -9999px;
+    overflow: hidden;
+    background: url(/vendor/webupload/icons.png) no-repeat;
+    margin: 5px 1px 1px;
+    cursor: pointer;
+}

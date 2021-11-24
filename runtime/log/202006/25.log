@@ -1,0 +1,191 @@
+---------------------------------------------------------------
+
+[2020-06-25T00:59:26+08:00] 47.101.67.232 GET mishop.holyzq.com/
+[运行时间：0.004341s] [吞吐率：230.36req/s] [内存消耗：863.05kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-25T00:59:26+08:00] 47.101.67.232 GET mishop.holyzq.com/explicit_not_exist_path
+[运行时间：0.002417s] [吞吐率：413.72req/s] [内存消耗：522.78kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/index.html
+[运行时间：0.003288s] [吞吐率：304.13req/s] [内存消耗：865.26kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=p35mk4nk2pkg0javv43ru6r09q',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/index.php
+[运行时间：0.003262s] [吞吐率：306.56req/s] [内存消耗：864.45kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=p35mk4nk2pkg0javv43ru6r09q',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/index.jsp
+[运行时间：0.002550s] [吞吐率：392.17req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/admin/
+[运行时间：0.002703s] [吞吐率：369.93req/s] [内存消耗：565.67kb] [文件加载：123]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=p35mk4nk2pkg0javv43ru6r09q',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /var/www/mishop/thinkphp/tpl/dispatch_jump.tpl [ array (
+  0 => 'code',
+  1 => 'msg',
+  2 => 'data',
+  3 => 'url',
+  4 => 'wait',
+) ]
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/readme.html
+[运行时间：0.002507s] [吞吐率：398.89req/s] [内存消耗：522.81kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/license.txt
+[运行时间：0.002486s] [吞吐率：402.25req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/wp-includes/js/wplink.js
+[运行时间：0.002756s] [吞吐率：362.83req/s] [内存消耗：522.79kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/wp-admin/js/customize-controls.js
+[运行时间：0.002333s] [吞吐率：428.65req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/wp-admin/js/nav-menu.js
+[运行时间：0.002385s] [吞吐率：419.26req/s] [内存消耗：522.78kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/wp-includes/js/plupload/handlers.js
+[运行时间：0.002578s] [吞吐率：387.89req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:27+08:00] 47.101.67.232 GET mishop.holyzq.com/wp-includes/js/tinymce/wp-tinymce.js.gz
+[运行时间：0.002366s] [吞吐率：422.69req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/index.php/explicit_not_exist_path
+[运行时间：0.002659s] [吞吐率：376.07req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/4e5e5d7364f443e28fbf0d3ae744a59a
+[运行时间：0.002527s] [吞吐率：395.73req/s] [内存消耗：522.80kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/?c=4e5e5d7364f443e28fbf0d3ae744a59a
+[运行时间：0.003208s] [吞吐率：311.71req/s] [内存消耗：865.20kb] [文件加载：188]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=p35mk4nk2pkg0javv43ru6r09q',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'host' => 'mishop.holyzq.com',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'c' => '4e5e5d7364f443e28fbf0d3ae744a59a',
+)
+[ info ] null
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/r/cms/www/red/img/prompt.jpg
+[运行时间：0.002628s] [吞吐率：380.50req/s] [内存消耗：523.16kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/r/cms/www/red/style/swiper.min.js
+[运行时间：0.002490s] [吞吐率：401.60req/s] [内存消耗：523.17kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/wcm/
+[运行时间：0.002601s] [吞吐率：384.48req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/phpMyAdmin/
+[运行时间：0.002548s] [吞吐率：392.47req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2020-06-25T00:59:28+08:00] 47.101.67.232 GET mishop.holyzq.com/phpmyadmin/
+[运行时间：0.002495s] [吞吐率：400.79req/s] [内存消耗：522.77kb] [文件加载：109]
+[ info ] [ LANG ] /var/www/mishop/thinkphp/lang/zh-cn.php

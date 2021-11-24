@@ -1,0 +1,519 @@
+---------------------------------------------------------------
+
+[2021-11-24T11:31:55+08:00] 127.0.0.1 GET 127.0.0.1:8000/backstage/Index/index
+[运行时间：0.139405s] [吞吐率：7.17req/s] [内存消耗：2,243.56kb] [文件加载：109]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+---------------------------------------------------------------
+
+[2021-11-24T11:32:34+08:00] 127.0.0.1 GET 127.0.0.1:8000/backstage/admin
+[运行时间：0.073160s] [吞吐率：13.67req/s] [内存消耗：2,814.43kb] [文件加载：118]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/admin',
+  'route' => 'backstage/Index/index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'cross_domain' => true,
+    'header' => 
+    array (
+      'Access-Control-Allow-Credentials' => 'true',
+      'Access-Control-Allow-Methods' => 'GET, POST, PATCH, PUT, DELETE',
+      'Access-Control-Allow-Headers' => 'Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since, X-Requested-With',
+      'Access-Control-Allow-Origin' => '*',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2021-11-24T11:44:45+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.124433s] [吞吐率：8.04req/s] [内存消耗：2,911.05kb] [文件加载：122]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '466',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryC0vwns0sIAKsKT8D',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'ur' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+)
+[ error ] [0]variable type error： array[/Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/library/think/Response.php:403]
+---------------------------------------------------------------
+
+[2021-11-24T11:45:15+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.076049s] [吞吐率：13.15req/s] [内存消耗：2,910.84kb] [文件加载：122]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '137',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'ur' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+)
+[ error ] [0]variable type error： array[/Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/library/think/Response.php:403]
+---------------------------------------------------------------
+
+[2021-11-24T11:45:42+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.135759s] [吞吐率：7.37req/s] [内存消耗：2,865.67kb] [文件加载：119]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '466',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryXbsYKD7CMjl5sGxl',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'ur' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+)
+---------------------------------------------------------------
+
+[2021-11-24T11:46:03+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.025770s] [吞吐率：38.80req/s] [内存消耗：2,911.09kb] [文件加载：122]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '559',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryUFQrBsDLRoocRyRG',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'ur' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+  'sort' => '11',
+)
+[ error ] [0]variable type error： array[/Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/library/think/Response.php:403]
+---------------------------------------------------------------
+
+[2021-11-24T11:47:04+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.164780s] [吞吐率：6.07req/s] [内存消耗：2,871.47kb] [文件加载：120]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '559',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryc94zis4kZwK5JswC',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36',
+  'sec-ch-ua-platform' => '"macOS"',
+  'origin' => 'chrome-extension://gahjcfmabepcnfmfanjhcobdaalgpjoh',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'ur' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+  'sort' => '11',
+)
+---------------------------------------------------------------
+
+[2021-11-24T11:49:20+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.157392s] [吞吐率：6.35req/s] [内存消耗：3,866.87kb] [文件加载：128]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '559',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryYEr3afNo49ZASVLb',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36',
+  'sec-ch-ua-platform' => '"macOS"',
+  'origin' => 'chrome-extension://gahjcfmabepcnfmfanjhcobdaalgpjoh',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'ur' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+  'sort' => '11',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.008130s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.011714s ]
+[ error ] [0]数据表字段不存在:[ur][/Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/library/think/db/Builder.php:138]
+---------------------------------------------------------------
+
+[2021-11-24T11:50:59+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.191466s] [吞吐率：5.22req/s] [内存消耗：3,865.84kb] [文件加载：128]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '559',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryuZ7NsuexPDF1QKXC',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'ur' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+  'sort' => '11',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001577s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.002157s ]
+[ error ] [0]数据表字段不存在:[ur][/Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/library/think/db/Builder.php:138]
+---------------------------------------------------------------
+
+[2021-11-24T11:51:32+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.037168s] [吞吐率：26.90req/s] [内存消耗：3,773.61kb] [文件加载：124]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '560',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryX20LoUywxgtI05Pr',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '苹果',
+  'url' => 'https://www.apple.com.cn/',
+  'description' => '这是苹果品牌',
+  'is_show' => '1',
+  'sort' => '11',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000415s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.000648s ]
+[ sql ] [ SQL ] INSERT INTO `brand` (`name` , `url` , `description` , `is_show` , `sort`) VALUES ('苹果' , 'https://www.apple.com.cn/' , '这是苹果品牌' , 1 , 11) [ RunTime:0.007623s ]
+---------------------------------------------------------------
+
+[2021-11-24T11:52:23+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.157334s] [吞吐率：6.36req/s] [内存消耗：3,773.50kb] [文件加载：124]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '553',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarys7Bl3IqmFGGGhirp',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '小米',
+  'url' => 'https://www.mi.com/',
+  'description' => '这是小米品牌',
+  'is_show' => '0',
+  'sort' => '2',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000695s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.001249s ]
+[ sql ] [ SQL ] INSERT INTO `brand` (`name` , `url` , `description` , `is_show` , `sort`) VALUES ('小米' , 'https://www.mi.com/' , '这是小米品牌' , 0 , 2) [ RunTime:0.000624s ]
+---------------------------------------------------------------
+
+[2021-11-24T12:06:10+08:00] 127.0.0.1 POST 127.0.0.1:8000/backstage/brand
+[运行时间：0.214307s] [吞吐率：4.67req/s] [内存消耗：3,794.94kb] [文件加载：125]
+[ info ] [ LANG ] /Users/holy/Developer/PHP/ThinkPHP/mishop/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'backstage/brand',
+  'route' => 'backstage/brand/save',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+    'except' => 
+    array (
+      0 => 'create',
+      1 => 'read',
+    ),
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1:8000',
+  'connection' => 'keep-alive',
+  'content-length' => '557',
+  'sec-ch-ua' => '" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"',
+  'accept' => '*/*',
+  'cache-control' => 'no-cache',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryAsbJjRnU2jusX2g9',
+  'sec-ch-ua-mobile' => '?0',
+  'user-agent' => 'apizza-extension',
+  'sec-ch-ua-platform' => '"macOS"',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'accept-encoding' => 'gzip, deflate, br',
+)
+[ info ] [ PARAM ] array (
+  'name' => '华为',
+  'url' => 'https://www.huawei.com/',
+  'description' => '这是华为品牌',
+  'is_show' => '1',
+  'sort' => '3',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002307s ] mysql:host=127.0.0.1;port=3306;dbname=mishop;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `brand` [ RunTime:0.002541s ]
+[ sql ] [ SQL ] INSERT INTO `brand` (`name` , `url` , `description` , `is_show` , `sort`) VALUES ('华为' , 'https://www.huawei.com/' , '这是华为品牌' , 1 , 3) [ RunTime:0.006904s ]
